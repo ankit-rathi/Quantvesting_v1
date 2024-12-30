@@ -18,7 +18,7 @@ APOLLOHOSP,,,ATH,D,1,1,0,H,HEALTHCARE,,UP,,,5,Premier hospital chain with strong
 ARVINDFASN,,XR,ATH,D,1,0,0,L,MISC,,UP,,,3,Retail-focused business with a growing portfolio but faces margin and competition pressures.
 ARE&M,1066,X200,BTT,W,1,1,1,L,AUTO,0,,85,,3,Industrial engineering firm with moderate management and growth prospects.
 ASIANPAINT,4250,X40,BTT,D,1,0,1,H,PAINTS,1,,-18,,5,Market leader in decorative paints with exceptional brand recognition and execution.
-ASIANTILES,137,XR,NTT,W,1,0,0,L,CERAMICS,1,UP,-9,,3,Tile manufacturer with consistent performance but limited scalability compared to peers.
+ASIANTILES,137,XR,NTT,W,1,0,0,M,CERAMICS,1,UP,-9,,3,Tile manufacturer with consistent performance but limited scalability compared to peers.
 ASTRAZEN,8410,X40N,BTT,W,1,0,1,M,PHARMA,-1,UP,,,4,Global pharma leader with a focus on innovation and a robust R&D pipeline.
 ATULAUTO,844,XY24,NTT,D,1,0,1,L,AUTO,1,UP,-37,,2.5,Small-scale auto manufacturer facing scalability and competitive challenges.
 AUBANK,,,,,1,1,0,M,BANKS,,,,,4,Consistently growing small finance bank with strong asset quality and customer focus.
@@ -33,8 +33,8 @@ BAJAJHLDNG,,X40,ATH,D,1,1,0,M,FINANCE,,UP,,,4,Strong holding company with stakes
 BAJFINANCE,9150,X40,BTT,D,1,1,1,H,FINANCE,1,,12,,5,Exemplary management and business model with industry-leading ROE and growth.
 BALKRISIND,,XR,ATH,D,1,1,1,H,TYRES,,UP,,,4.5,Niche player in off-highway tires with strong global presence and efficient operations.
 BANDHANBNK,400,XY24,NTT,W,1,0,1,M,BANKS,1,,-25,,3.5,Strong microfinance focus but governance and asset quality concerns remain.
-BANKBARODA,395,XR,ATH,W,1,1,1,L,BANKS,1,,19,,3,Improved operations post-merger but still faces challenges in governance and NPAs.
-BANKINDIA,190,XR,NTT,W,1,0,1,L,BANKS,1,,-9,SD: till 190,2.5,Public sector bank with persistent challenges in credit discipline and operational efficiency.
+BANKBARODA,395,XR,ATH,W,1,1,1,M,BANKS,1,,19,,3,Improved operations post-merger but still faces challenges in governance and NPAs.
+BANKINDIA,190,XR,NTT,W,1,0,1,M,BANKS,1,,-9,SD: till 190,2.5,Public sector bank with persistent challenges in credit discipline and operational efficiency.
 BATAINDIA,2096,X40,NTT,D,1,0,1,M,FOOTWEAR,1,,-4,SD: till 1686,4,Trusted footwear brand with strong market presence but faces competition from new entrants.
 BAYERCROP,8325,X40N,ATH,D,1,0,1,H,CHEMICALS,1,UP,21,,4.5,Global agrochemical leader with strong R&D focus; business quality impacted by cyclicality.
 BERGEPAINT,680,XY24,NTT,D,1,1,0,H,PAINTS,1,UP,-20,,4.5,Strong brand with consistent growth in decorative paints; well-managed and capital-efficient.
@@ -87,7 +87,7 @@ GAIL,,,,,1,0,0,L,GAS,,UP,,,3,Largest natural gas company in India; government ow
 GEOJITFSL,,XR,ATH,D,1,1,0,L,FINANCE,,UP,,,3,Regional player in financial services with limited competitive advantage.
 GICRE,583,XY24,BTT,W,1,0,1,L,INSURANCE,1,UP,137,,3,State-owned reinsurer with pricing challenges and lack of operational agility.
 GILLETTE,8980,X40,BTT,D,0,0,1,H,FMCG,0,UP,64,,4.5,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
-GLAND,2114,XR,NTT,W,1,0,1,M,PHARMA,1,UP,29,SD: 2612,4,Focused on injectables with strong global presence but faces execution challenges.
+GLAND,2114,XR,NTT,W,1,0,1,H,PHARMA,1,UP,29,SD: 2612,4,Focused on injectables with strong global presence but faces execution challenges.
 GLAXO,3182,X40,BTT,D,1,0,1,H,PHARMA,,UP,,,4.5,Strong brand and diversified pharma portfolio but slower growth compared to peers.
 GODREJCP,,,,,1,0,0,M,FMCG,,UP,,,4,Trusted FMCG player with strong presence in home and personal care but faces tough competition.
 GODREJIND,,,,,1,0,0,M,CHEMICALS,,UP,,,3.5,Conglomerate with diversified businesses but lacks strong competitive advantages.
@@ -212,7 +212,7 @@ SRF,2787,XR,ATH,W,1,0,1,H,CHEMICALS,0,,18,,5,Diversified chemicals leader with s
 STARHEALTH,761,XY24,NTT,W,1,1,1,M,INSURANCE,1,,-16,,4,Leading health insurer with growing market share but faces intense competition.
 SUNPHARMA,,,,,1,1,0,H,PHARMA,,UP,,,5,Largest Indian pharma company with robust portfolio and global presence.
 SUNTV,1092,X40N,BTT,W,1,1,1,M,ENTERTAINMENT,1,UP,20,,3.5,Regional media leader; but faces challenges from digital streaming platforms.
-SURYODAY,240,XR,NTT,W,1,0,1,L,BANKS,1,UP,-39,VB: till ATH 311,3,Small finance bank with limited scale and rising competition in financial inclusion.
+SURYODAY,240,XR,NTT,W,1,0,1,M,BANKS,1,UP,-39,VB: till ATH 311,3,Small finance bank with limited scale and rising competition in financial inclusion.
 SUZLON,,,,,1,0,0,L,ELECTRICAL,,UP,,,3,Pioneer in wind energy but historically burdened by high debt and execution challenges.
 SYMPHONY,1201,X40N,ATH,W,1,1,1,M,DURABLES,0,UP,75,,4,Market leader in air coolers; but growth is seasonal and dependent on weather patterns.
 TANLA,1300,AR,ATH,W,1,1,1,M,IT,1,DOWN,-32,,4,Strong position in cloud communication but operates in a competitive tech space.
