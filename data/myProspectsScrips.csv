@@ -85,7 +85,7 @@ FINEORG,7000,X40N,ATH,W,1,0,1,H,CHEMICALS,1,UP,-3,,5,Leader in niche oleochemica
 FOSECOIND,,EXP50,ATH,W,0,0,1,M,CHEMICALS,,UP,,,4,Specialty chemical company with strong market position but limited scalability.
 GAIL,,,,,1,0,0,L,GAS,,UP,,,3,Largest natural gas company in India; government ownership limits operational flexibility.
 GEOJITFSL,,XR,ATH,D,1,1,0,L,FINANCE,,UP,,,3,Regional player in financial services with limited competitive advantage.
-GICRE,583,XY24,BTT,W,1,0,1,L,INSURANCE,1,UP,137,,3,State-owned reinsurer with pricing challenges and lack of operational agility.
+GICRE,583,XY24,BTT,W,1,0,1,M,INSURANCE,1,UP,137,,3,State-owned reinsurer with pricing challenges and lack of operational agility.
 GILLETTE,8980,X40,BTT,D,0,0,1,H,FMCG,0,UP,64,,4.5,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
 GLAND,2114,XR,NTT,W,1,0,1,H,PHARMA,1,UP,29,SD: 2612,4,Focused on injectables with strong global presence but faces execution challenges.
 GLAXO,3182,X40,BTT,D,1,0,1,H,PHARMA,,UP,,,4.5,Strong brand and diversified pharma portfolio but slower growth compared to peers.
