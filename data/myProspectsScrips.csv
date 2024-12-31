@@ -87,7 +87,7 @@ GAIL,,,,,1,0,0,L,GAS,,UP,,,3,Largest natural gas company in India; government ow
 GEOJITFSL,,XR,ATH,D,1,1,0,L,FINANCE,,UP,,,3,Regional player in financial services with limited competitive advantage.
 GICRE,583,XY24,BTT,W,1,0,1,M,INSURANCE,1,UP,137,,3,State-owned reinsurer with pricing challenges and lack of operational agility.
 GILLETTE,8980,X40,BTT,D,0,0,1,H,FMCG,0,UP,64,,4.5,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
-GLAND,2114,XR,NTT,W,1,0,1,H,PHARMA,1,UP,29,SD: 2612,4,Focused on injectables with strong global presence but faces execution challenges.
+GLAND,3442,XR,NTT,W,1,0,1,H,PHARMA,1,UP,29,SD: 2612,4,Focused on injectables with strong global presence but faces execution challenges.
 GLAXO,3182,X40,BTT,D,1,0,1,H,PHARMA,,UP,,,4.5,Strong brand and diversified pharma portfolio but slower growth compared to peers.
 GODREJCP,,,,,1,0,0,M,FMCG,,UP,,,4,Trusted FMCG player with strong presence in home and personal care but faces tough competition.
 GODREJIND,,,,,1,0,0,M,CHEMICALS,,UP,,,3.5,Conglomerate with diversified businesses but lacks strong competitive advantages.
@@ -137,7 +137,7 @@ JUBLFOOD,850,AR,NTT,W,1,0,1,M,RESTAURANTS,1,UP,28,,4,Dominant QSR player with st
 JYOTHYLAB,,XR,ATH,D,1,1,1,M,FMCG,,UP,,,4,Niche FMCG player with a strong regional presence but limited scale compared to peers.
 KANSAINER,340,XY24,NTT,D,1,0,1,H,PAINTS,1,,-23,,5,Leader in decorative paints with strong growth potential and market leadership.
 KOTAKBANK,2270,X40,BTT,D,1,1,0,H,BANKS,1,UP,-1,,5,Premier private bank with ethical management; strong growth; and robust asset quality.
-LALPATHLAB,3450,X40N,NTT,W,1,1,1,H,HEALTHCARE,1,UP,19,,4.5,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
+LALPATHLAB,3690,X40N,NTT,W,1,1,1,H,HEALTHCARE,1,UP,19,,4.5,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
 LAOPALA,464,AR,NTT,D,0,0,0,M,CERAMICS,1,,-41,,4,Niche glassware manufacturer with steady growth and limited competition.
 LICHSGFIN,692,AR,ATH,W,1,1,1,L,FINANCE,,UP,,,3,PSU-backed housing finance company with sluggish growth and high competition.
 LICI,967,X200,ATH,W,1,0,1,M,INSURANCE,-1,UP,202,,3.5,India's largest insurer with strong market share but governance challenges as a PSU.
@@ -245,7 +245,7 @@ VALIANTORG,838,XR,NTT,W,1,0,1,M,CHEMICALS,1,DOWN,-28,,4,Specialty chemical playe
 VEDL,,,,,1,0,0,L,MINING,,UP,,,3,Commodity business with cyclical earnings and corporate governance concerns.
 VGUARD,,XR,ATH,D,1,1,1,M,ELECTRICAL,,UP,,,4,Consumer appliances player with consistent growth but rising input costs.
 VINATIORGA,1882,X40N,ATH,W,1,0,1,H,CHEMICALS,,UP,,,5,Specialty chemical leader with high margins and export focus.
-VIPIND,575,X40N,NTT,W,1,0,1,H,MISC,1,,-7,,5,Market leader in luggage with consistent growth and brand equity.
+VIPIND,718,X40N,NTT,W,1,0,1,H,MISC,1,,-7,,5,Market leader in luggage with consistent growth and brand equity.
 VOLTAS,,,,,1,1,0,H,AC,,UP,,,5,Market leader in air conditioning and cooling products with robust brand equity.
 WESTLIFE,,AR,,W,1,0,0,M,RESTAURANTS,,,,,4,McDonald's franchisee in India with strong growth but operates on thin margins.
 WHIRLPOOL,2270,X40,NTT,D,1,0,0,M,DURABLES,-1,UP,34,SD: 2539,4,Consumer appliances leader with premium positioning but rising competition.
