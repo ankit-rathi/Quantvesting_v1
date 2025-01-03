@@ -16,10 +16,10 @@ APEX,314,AR,ATH,W,1,0,0,L,MISC,0,UP,-9,,3,Emerging pharma company with growth po
 APLLTD,,XR,ATH,W,1,0,0,M,PHARMA,,UP,,,4,Trusted pharma company with a growing domestic and international market presence.
 APOLLOHOSP,,,ATH,D,1,1,0,H,HEALTHCARE,,UP,,,5,Premier hospital chain with strong management and leadership in healthcare services.
 ARVINDFASN,,XR,ATH,D,1,0,0,L,MISC,,UP,,,3,Retail-focused business with a growing portfolio but faces margin and competition pressures.
-ARE&M,1066,X200,BTT,W,1,1,1,L,AUTO,0,,85,,3,Industrial engineering firm with moderate management and growth prospects.
+ARE&M,1066,X200,ATH,W,1,1,1,L,AUTO,0,,85,,3,Industrial engineering firm with moderate management and growth prospects.
 ASIANPAINT,4250,X40,BTT,D,1,0,1,H,PAINTS,1,,-18,,5,Market leader in decorative paints with exceptional brand recognition and execution.
 ASIANTILES,137,XR,NTT,W,1,0,0,M,CERAMICS,1,UP,-9,,3,Tile manufacturer with consistent performance but limited scalability compared to peers.
-ASTRAZEN,8410,X40N,BTT,W,1,0,1,M,PHARMA,-1,UP,,,4,Global pharma leader with a focus on innovation and a robust R&D pipeline.
+ASTRAZEN,8410,X40N,ATH,W,1,0,1,M,PHARMA,-1,UP,,,4,Global pharma leader with a focus on innovation and a robust R&D pipeline.
 ATULAUTO,844,XY24,NTT,D,1,0,1,M,AUTO,1,UP,-37,,2.5,Small-scale auto manufacturer facing scalability and competitive challenges.
 AUBANK,,,,,1,1,0,M,BANKS,,,,,4,Consistently growing small finance bank with strong asset quality and customer focus.
 AUROPHARMA,,,,,1,0,0,M,PHARMA,,UP,,,3.5,Well-known pharmaceutical company with a diverse portfolio but faces pricing pressures.
@@ -45,10 +45,10 @@ BLUESTARCO,800,AR,ATH,W,1,1,1,M,AC,,UP,,,4,Market leader in air conditioning wit
 BOROLTD,462,XY24,ATH,W,1,0,1,L,GLASS,0,UP,142,,3,Strong legacy brand in glassware but faces stiff competition and lacks scalability.
 BOSCHLTD,,X40N,ATH,D,1,1,0,H,AUTO,,UP,,,4.5,Pioneer in auto components with strong focus on innovation and high-quality management.
 BPCL,,XR,ATH,D,1,0,0,L,OIL,,UP,,,3,Government-owned oil company facing pricing and regulatory challenges despite scale advantages.
-BRITANNIA,,AR,ATH,D,1,1,0,H,FMCG,-1,UP,239,,5,Market leader in biscuits and bakery products with efficient capital allocation and branding.
+BRITANNIA,,AR,ATH,D,1,1,0,H,FMCG,1,UP,239,,5,Market leader in biscuits and bakery products with efficient capital allocation and branding.
 BSOFT,,XR,ATH,D,1,1,1,M,IT,1,,-22,,4,IT services company with strong growth potential in digital transformation projects.
 CAMPUS,393,XY24,NTT,W,1,0,0,M,FOOTWEAR,1,UP,18,,3.5,Growing player in affordable footwear but lacks a strong competitive moat.
-CAMS,4450,XR,BTT,W,1,1,1,M,MISC,0,UP,261,,4,Monopoly-like position in mutual fund RTA services; well-run with strong cash flow generation.
+CAMS,4450,XR,ATH,W,1,1,1,M,MISC,0,UP,261,,4,Monopoly-like position in mutual fund RTA services; well-run with strong cash flow generation.
 CANBK,,,,,1,1,0,L,BANKS,,,,,3,PSU bank showing some improvement but still faces governance and credit quality issues.
 CAPLIPOINT,,X40N,ATH,W,1,1,1,M,PHARMA,,UP,,,4,Niche pharma player with a focus on generics and injectables; consistent operational performance.
 CASTROLIND,172,XR,ATH,W,0,0,1,M,CHEMICALS,0,UP,2824,,4,Strong brand in lubricants but faces headwinds from EV adoption and slowing demand.
@@ -161,7 +161,7 @@ NAM-INDIA,,X40,ATH,D,1,0,0,M,FINANCE,,UP,,,4,Established asset management compan
 NATIONALUM,,,,,1,0,0,L,METALS,,UP,,,3,PSU aluminum producer with cyclical earnings and low pricing power.
 NAUKRI,,,,,1,0,0,H,IT,,UP,,,5,Market leader in online recruitment with strong cash flows and new growth verticals.
 NEOGEN,2434,SR,BTT,W,1,0,0,M,CHEMICALS,-1,UP,36,SR:2434,4,Specialty chemicals company with niche focus but relatively small scale.
-NESTLEIND,2925,X40,BTT,D,0,0,0,H,FMCG,-1,,,,5,FMCG giant with strong brand portfolio; consistent growth; and ethical management.
+NESTLEIND,2925,X40,BTT,D,0,0,0,H,FMCG,1,,,,5,FMCG giant with strong brand portfolio; consistent growth; and ethical management.
 NETWORK18,,,,,1,0,0,L,MEDIA,,,,,3,Media company with fluctuating revenues and limited pricing power in the industry.
 NHPC,115,XY24,NTT,D,1,0,0,M,POWER,1,,-85,,3,PSU hydropower company with stable earnings but limited growth potential.
 NIACL,278,XR,ATH,W,1,0,1,M,INSURANCE,-1,UP,442,,3,General insurance PSU with operational inefficiencies and intense competition.
