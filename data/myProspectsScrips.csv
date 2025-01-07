@@ -111,7 +111,7 @@ IBREALEST,,,,,0,0,0,L,REALTY,,UP,,,3,Real estate player with cyclical business a
 ICICIBANK,,X40,ATH,D,1,1,0,H,BANKS,,UP,,,5,Best-in-class private bank with consistent growth; strong digital focus; and asset quality.
 ICICIGI,1893,X40,ATH,D,1,1,1,H,INSURANCE,-1,UP,52,,4.5,Leading general insurer with strong distribution but faces pricing pressures in the industry.
 ICICIPRULI,835,X40,ATH,D,1,0,0,H,INSURANCE,0,UP,103,,4.5,Life insurer with innovative products and consistent market share growth.
-IEX,219,XR,NTT,W,1,1,1,M,MISC,1,UP,28,,4,Monopoly in power exchange but regulatory risks exist.
+IEX,219,XR,NTT,W,1,1,1,H,MISC,1,UP,28,,4,Monopoly in power exchange but regulatory risks exist.
 IGL,707,AR,BTT,W,1,1,0,M,GAS,,UP,,,4,Dominant player in city gas distribution with steady growth and high entry barriers.
 INDIANB,,,,,1,1,0,L,BANKS,,,,,3,PSU bank with improving asset quality but still faces operational challenges.
 INDIGO,,,,,1,1,0,M,AIRLINES,,UP,,,4,Market leader in aviation with cost-efficient operations but cyclical industry dynamics.
@@ -152,8 +152,8 @@ MARUTI,,XR,ATH,D,1,1,0,H,AUTO,,UP,,,5,Dominant passenger car manufacturer with s
 MASFIN,350,XR,ATH,D,1,1,0,M,FINANCE,1,,-74,,4,Well-managed NBFC with a focus on MSME lending but scalability concerns.
 MAXHEALTH,,AR,,W,1,1,0,M,HEALTHCARE,,UP,,,4,Leading hospital chain with strong brand but faces competitive intensity in organized healthcare.
 MCX,,X40N,ATH,W,1,0,1,M,MISC,,UP,,,4,Monopoly in commodity exchanges but regulatory and technological risks exist.
-MEDANTA,1486,XY24,NTT,D,1,0,1,M,HEALTHCARE,1,,30,,4,Leading multispecialty hospital with strong expansion potential but capital-intensive model.
-METROPOLIS,3102,XR,NTT,W,1,0,1,M,HEALTHCARE,1,UP,33,,4,Trusted diagnostics brand with steady growth but rising competition from organized players.
+MEDANTA,1486,XY24,NTT,D,1,0,1,H,HEALTHCARE,1,,30,,4,Leading multispecialty hospital with strong expansion potential but capital-intensive model.
+METROPOLIS,3102,XR,NTT,W,1,0,1,H,HEALTHCARE,1,UP,33,,4,Trusted diagnostics brand with steady growth but rising competition from organized players.
 MOTILALOFS,1000,X40N,NTT,W,1,1,0,H,FINANCE,,UP,,,4.5,Strong financial services firm with a focus on wealth management and asset management.
 MRF,,AR,ATH,W,1,1,0,H,TYRES,-1,,,,4.5,Premium tire manufacturer with strong brand equity but faces margin pressure due to costs.
 MUTHOOTFIN,,XR,ATH,D,1,1,0,M,FINANCE,,UP,,,4,Leading gold loan NBFC with consistent growth and risk mitigation; but faces competition.
