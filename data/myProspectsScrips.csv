@@ -14,10 +14,10 @@ AMBUJACEM,733,XY24,BTT,W,0,0,1,M,CEMENT,0,UP,38,,4,Among the top cement players 
 ANGELONE,,X40N,ATH,W,1,1,1,M,FINANCE,,,138,VB: ATH by end of 2024; SD: 3444,3.5,Leading retail stockbroker with strong digital capabilities but competitive industry dynamics.
 APEX,314,AR,ATH,W,1,0,0,L,MISC,0,UP,-9,,3,Emerging pharma company with growth potential but lacks a significant competitive edge.
 APLLTD,,XR,ATH,W,1,0,0,M,PHARMA,,UP,,,4,Trusted pharma company with a growing domestic and international market presence.
-APOLLOHOSP,,,ATH,D,1,1,0,H,HEALTHCARE,,UP,,,5,Premier hospital chain with strong management and leadership in healthcare services.
+APOLLOHOSP,,,ATH,D,1,1,0,X,HEALTHCARE,,UP,,,5,Premier hospital chain with strong management and leadership in healthcare services.
 ARVINDFASN,,XR,ATH,D,1,0,0,L,MISC,,UP,,,3,Retail-focused business with a growing portfolio but faces margin and competition pressures.
 ARE&M,1066,X200,ATH,W,1,1,1,L,AUTO,0,,85,,3,Industrial engineering firm with moderate management and growth prospects.
-ASIANPAINT,4250,X40,BTT,D,1,0,1,H,PAINTS,1,,-18,,5,Market leader in decorative paints with exceptional brand recognition and execution.
+ASIANPAINT,4250,X40,BTT,D,1,0,1,X,PAINTS,1,,-18,,5,Market leader in decorative paints with exceptional brand recognition and execution.
 ASIANTILES,137,XR,NTT,W,1,0,0,M,CERAMICS,1,UP,-9,,3,Tile manufacturer with consistent performance but limited scalability compared to peers.
 ASTRAZEN,8410,X40N,ATH,W,1,0,1,M,PHARMA,0,UP,,,4,Global pharma leader with a focus on innovation and a robust R&D pipeline.
 ATULAUTO,844,XY24,NTT,D,1,0,1,M,AUTO,1,UP,-37,,2.5,Small-scale auto manufacturer facing scalability and competitive challenges.
@@ -30,7 +30,7 @@ BAJAJ-AUTO,,X40,ATH,D,1,1,0,H,AUTO,0,UP,,,4.5,Market leader in two-wheelers with
 BAJAJFINSV,2392,X40,BTT,D,1,1,1,H,FINANCE,1,UP,5,,5,Exceptional management with diversified financial services portfolio; proven execution.
 BAJAJHIND,46,XR,ATH,W,1,0,1,L,SUGAR,0,UP,431,,2.5,Cyclical sugar business with limited pricing power and weak governance history.
 BAJAJHLDNG,,X40,ATH,D,1,1,0,M,FINANCE,,UP,,,4,Strong holding company with stakes in high-performing Bajaj group entities.
-BAJFINANCE,9150,X40,BTT,D,1,1,1,H,FINANCE,1,,12,,5,Exemplary management and business model with industry-leading ROE and growth.
+BAJFINANCE,9150,X40,BTT,D,1,1,1,X,FINANCE,1,,12,,5,Exemplary management and business model with industry-leading ROE and growth.
 BALKRISIND,,XR,ATH,D,1,1,1,H,TYRES,,UP,,,4.5,Niche player in off-highway tires with strong global presence and efficient operations.
 BANDHANBNK,400,XY24,NTT,W,1,0,1,M,BANKS,1,,-25,,3.5,Strong microfinance focus but governance and asset quality concerns remain.
 BANKBARODA,283,XR,NTT,W,1,1,1,M,BANKS,1,,19,,3,Improved operations post-merger but still faces challenges in governance and NPAs.
@@ -38,10 +38,10 @@ BANKINDIA,190,XR,NTT,W,1,0,1,M,BANKS,1,,-9,SD: till 190,2.5,Public sector bank w
 BATAINDIA,2096,X40,NTT,D,1,0,1,M,FOOTWEAR,1,,-4,SD: till 1686,4,Trusted footwear brand with strong market presence but faces competition from new entrants.
 BAYERCROP,6805,X40N,NTT,D,1,0,1,H,CHEMICALS,1,UP,21,,4.5,Global agrochemical leader with strong R&D focus; business quality impacted by cyclicality.
 BERGEPAINT,680,XY24,NTT,D,1,1,0,H,PAINTS,1,UP,-20,,4.5,Strong brand with consistent growth in decorative paints; well-managed and capital-efficient.
-BHARTIARTL,,,ATH,D,1,1,0,M,TELECOM,,UP,,,4,Leading telecom operator with improved profitability and diversification into digital services.
+BHARTIARTL,,,ATH,D,1,1,0,X,TELECOM,,UP,,,4,Leading telecom operator with improved profitability and diversification into digital services.
 BIOCON,397,XY24,NTT,,1,1,0,M,PHARMA,0,UP,67,,4,Leadership in biosimilars and strong R&D focus; but execution risks exist in scaling globally.
 BIRLAMONEY,141,AR,ATH,W,1,1,0,L,FINANCE,0,UP,365,,3,Small player in financial services with limited scale and growth visibility.
-BLUESTARCO,800,AR,ATH,W,1,1,1,M,AC,,UP,,,4,Market leader in air conditioning with consistent growth and strong operational performance.
+BLUESTARCO,800,AR,ATH,W,1,1,1,X,AC,,UP,,,4,Market leader in air conditioning with consistent growth and strong operational performance.
 BOROLTD,462,XY24,ATH,W,1,0,1,L,GLASS,0,UP,142,,3,Strong legacy brand in glassware but faces stiff competition and lacks scalability.
 BOSCHLTD,,X40N,ATH,D,1,1,0,H,AUTO,,UP,,,4.5,Pioneer in auto components with strong focus on innovation and high-quality management.
 BPCL,,XR,ATH,D,1,0,0,L,OIL,,UP,,,3,Government-owned oil company facing pricing and regulatory challenges despite scale advantages.
@@ -69,8 +69,8 @@ DEEPAKNTR,,,ATH,,1,0,0,H,CHEMICALS,,UP,,,4.5,Leading specialty chemical manufact
 DEN,75,AR,NTT,W,1,0,1,L,ENTERTAINMENT,1,UP,-18,,2.5,Struggles with profitability and scalability in a highly competitive cable TV business.
 DIVISLAB,5029,AR,ATH,D,1,0,0,H,PHARMA,,UP,,,5,Global leader in APIs with strong R&D focus and ethical management.
 DIXON,,X40N,ATH,W,1,1,1,H,IT,,UP,,,4.5,Leading contract manufacturer in India with robust growth and operational efficiency.
-DLF,,,,,1,0,0,L,REALTY,,UP,,,3,Real estate major with cyclical business and governance challenges in the past.
-DMART,5112,AR,NTT,W,1,1,1,H,FMCG,1,UP,35,,5,Industry leader in retail with cost-efficient operations and excellent execution.
+DLF,,AR,ATH,D,1,0,0,H,REALTY,,UP,,,3,Real estate major with cyclical business and governance challenges in the past.
+DMART,5112,AR,NTT,W,1,1,1,X,FMCG,1,UP,35,,5,Industry leader in retail with cost-efficient operations and excellent execution.
 DREAMFOLKS,,EXP50,ATH,W,1,1,0,M,MISC,,,,,3.5,Emerging leader in lounge access services; scalability and execution risks remain.
 DRREDDY,,XR,ATH,D,1,1,0,H,PHARMA,,UP,,,4.5,Trusted pharma brand with strong global presence but faces price erosion in key markets.
 EASEMYTRIP,26.4,XY24,NTT,W,1,0,0,M,TRAVEL,1,,-93,,3.5,Asset-light online travel agency with scalability potential but limited competitive moat.
@@ -91,7 +91,7 @@ GLAND,3442,XR,NTT,W,1,0,1,H,PHARMA,1,UP,29,SD: 2612,4,Focused on injectables wit
 GLAXO,3182,X40,ATH,D,1,0,1,H,PHARMA,,UP,,,4.5,Strong brand and diversified pharma portfolio but slower growth compared to peers.
 GODREJCP,,,,,1,0,0,M,FMCG,,UP,,,4,Trusted FMCG player with strong presence in home and personal care but faces tough competition.
 GODREJIND,,,,,1,0,0,M,CHEMICALS,,UP,,,3.5,Conglomerate with diversified businesses but lacks strong competitive advantages.
-GRASIM,,,ATH,,1,0,0,H,TEXTILES,,UP,,,4.5,Well-managed conglomerate with leadership in cement and entry into paints.
+GRASIM,,AR,ATH,,1,0,0,X,TEXTILES,,UP,,,4.5,Well-managed conglomerate with leadership in cement and entry into paints.
 GREENPANEL,537,XY24,NTT,D,1,0,0,M,MISC,1,UP,-14,,4,Leader in MDF with strong operational efficiency but cyclical demand risks.
 GULFOILLUB,896,AR,ATH,D,1,1,0,L,CHEMICALS,0,UP,187,,3,Niche lubricant manufacturer but faces challenges from EV adoption and market share erosion.
 HAPPSTMNDS,193,AR,ATH,W,1,1,0,M,IT,1,,-25,,4,Emerging IT services company with a focus on digital transformation and strong growth.
@@ -99,13 +99,13 @@ HATHWAY,31.4,XR,NTT,W,1,0,0,L,ENTERTAINMENT,1,UP,-18,,3,Cable and broadband play
 HAVELLS,,X40,ATH,D,1,1,0,H,ELECTRICAL,-1,UP,,,5,Industry leader in electrical consumer goods with consistent growth and strong brand equity.
 HCLTECH,2006,X40,BTT,D,1,1,0,H,IT,1,UP,99,,4.5,Leading IT services company with robust global presence and diversified offerings.
 HDFCAMC,3600,X40,ATH,D,1,0,1,H,FINANCE,0,UP,136,,5,Market leader in asset management with strong distribution network and consistent profitability.
-HDFCBANK,2170,X40,BTT,D,1,1,0,H,BANKS,1,UP,10,,5,Best-in-class private bank with robust growth; excellent governance; and strong asset quality.
+HDFCBANK,2170,X40,BTT,D,1,1,0,X,BANKS,1,UP,10,,5,Best-in-class private bank with robust growth; excellent governance; and strong asset quality.
 HDFCLIFE,897,X40,BTT,D,1,0,0,H,INSURANCE,1,UP,18,,4.5,Leading life insurer with innovative product offerings and strong distribution capabilities.
-HEROMOTOCO,,,,,1,1,0,M,AUTO,,UP,,,4,Market leader in two-wheelers but faces growth headwinds in the EV transition.
+HEROMOTOCO,,AR,ATH,D,1,1,0,H,AUTO,,UP,,,4,Market leader in two-wheelers but faces growth headwinds in the EV transition.
 HSCL,,XR,ATH,W,1,1,0,L,CHEMICALS,,UP,,,3,Construction-focused PSU with cyclical business and limited scalability.
 HINDALCO,,,,,1,0,0,M,METALS,,UP,,,4,Leading aluminum and copper producer with strong operational performance and global footprint.
 HINDPETRO,410,XR,BTT,D,1,0,0,L,REFINERIES,0,UP,1817,,3,PSU with limited pricing power due to government regulations and volatile margins.
-HINDUNILVR,3513,X40,BTT,D,1,1,0,H,FMCG,1,UP,-5,,5,FMCG leader with strong brand portfolio; consistent growth; and ethical management.
+HINDUNILVR,3513,X40,BTT,D,1,1,0,X,FMCG,1,UP,-5,,5,FMCG leader with strong brand portfolio; consistent growth; and ethical management.
 HONAUT,51640,X40N,ATH,D,1,1,1,H,ELECTRICAL,1,UP,97,,4.5,Trusted automation and safety solution provider with niche market leadership.
 IBREALEST,,,,,0,0,0,L,REALTY,,UP,,,3,Real estate player with cyclical business and governance concerns in the past.
 ICICIBANK,,X40,ATH,D,1,1,0,H,BANKS,,UP,,,5,Best-in-class private bank with consistent growth; strong digital focus; and asset quality.
@@ -113,8 +113,9 @@ ICICIGI,1893,X40,ATH,D,1,1,1,H,INSURANCE,-1,UP,52,,4.5,Leading general insurer w
 ICICIPRULI,835,X40,ATH,D,1,0,0,H,INSURANCE,0,UP,103,,4.5,Life insurer with innovative products and consistent market share growth.
 IEX,219,XR,NTT,W,1,1,1,H,MISC,1,UP,28,,4,Monopoly in power exchange but regulatory risks exist.
 IGL,707,AR,BTT,W,1,1,0,M,GAS,,UP,,,4,Dominant player in city gas distribution with steady growth and high entry barriers.
+INDHOTEL,,AR,ATH,,1,1,0,M,HOTELS,,,,,3,
 INDIANB,,,,,1,1,0,L,BANKS,,,,,3,PSU bank with improving asset quality but still faces operational challenges.
-INDIGO,,,,,1,1,0,M,AIRLINES,,UP,,,4,Market leader in aviation with cost-efficient operations but cyclical industry dynamics.
+INDIGO,,AR,ATH,D,1,1,0,M,AIRLINES,,UP,,,4,Market leader in aviation with cost-efficient operations but cyclical industry dynamics.
 INDIGOPNTS,2061,X40N,NTT,W,1,1,1,H,PAINTS,1,UP,4,,5,Rapidly growing paints company leveraging strong demand in tier-2 and tier-3 markets.
 INDUSINDBK,1800,XR,NTT,W,1,1,1,M,BANKS,1,,-21,,4,Private bank with improving asset quality and growing retail focus.
 INDUSTOWER,,,,,1,1,0,L,TELECOM,,UP,,,3,Telecom tower company with challenges from industry consolidation.
@@ -131,10 +132,11 @@ JINDALSTEL,,,,,1,0,0,M,STEEL,,UP,,,3.5,Leading steel producer but exposed to cyc
 JIOFIN,387,XY24,BTT,W,1,0,0,M,FINANCE,1,,65,,4,New financial services arm of Reliance with strong parent backing and scalability potential.
 JMFINANCIL,,XR,ATH,W,1,0,1,M,FINANCE,0,UP,90,,3.5,Diversified financial services player with limited competitive advantages.
 JPPOWER,26.2,XY24,NTT,W,1,1,1,L,POWER,1,UP,85,,3,Struggling power producer with high debt and operational inefficiencies.
-JSWHL,7487,XY24,BTT,D,1,0,1,L,FINANCE,,UP,,,3,Niche holding company with limited direct business opportunities.
-JSWSTEEL,,,,,1,0,0,M,STEEL,0,UP,802,,4,Leading steel manufacturer with strong domestic and global presence but cyclical earnings.
+JSWHL,7487,XY24,BTT,D,1,0,1,H,FINANCE,,UP,,,3,Niche holding company with limited direct business opportunities.
+JSWSTEEL,,AR,ATH,D,1,0,0,X,STEEL,0,UP,802,,4,Leading steel manufacturer with strong domestic and global presence but cyclical earnings.
 JUBLFOOD,850,AR,NTT,W,1,0,1,M,RESTAURANTS,1,UP,28,,4,Dominant QSR player with strong brand and aggressive expansion but rising input costs.
 JYOTHYLAB,,XR,ATH,D,1,1,1,M,FMCG,,UP,,,4,Niche FMCG player with a strong regional presence but limited scale compared to peers.
+KAJARIACER,,AR,ATH,D,1,1,1,X,CERAMICS,0,,,,,Market leader in the Indian tiles industry with strong brand equity a diverse product range and significant growth potential driven by urbanization and infrastructure development.
 KANSAINER,340,XY24,NTT,D,1,0,1,H,PAINTS,1,,-23,,5,Leader in decorative paints with strong growth potential and market leadership.
 KOTAKBANK,2270,X40,BTT,D,1,1,0,H,BANKS,1,UP,-1,,5,Premier private bank with ethical management; strong growth; and robust asset quality.
 LALPATHLAB,3545,X40N,NTT,W,1,1,1,H,HEALTHCARE,1,UP,19,,4.5,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
@@ -148,11 +150,12 @@ LUXIND,2442,X40N,NTT,W,1,0,1,M,TEXTILES,1,UP,22,VB: cup with handle 2966,4,Leadi
 M&M,,,ATH,,1,1,0,H,AUTO,,UP,,,5,Diversified automotive and tractor leader with consistent innovation and strong execution.
 MANAPPURAM,,XR,ATH,D,1,1,0,M,FINANCE,,UP,,,3.5,Gold loan-focused NBFC with good growth but regulatory and market risks.
 MARICO,725,X40,ATH,D,1,1,0,H,FMCG,0,UP,42,,5,FMCG leader with strong brands; consistent growth; and excellent management.
-MARUTI,,XR,ATH,D,1,1,0,H,AUTO,,UP,,,5,Dominant passenger car manufacturer with strong market share and cost-efficient operations.
-MASFIN,350,XR,ATH,D,1,1,0,M,FINANCE,1,,-74,,4,Well-managed NBFC with a focus on MSME lending but scalability concerns.
-MAXHEALTH,,AR,,W,1,1,0,M,HEALTHCARE,,UP,,,4,Leading hospital chain with strong brand but faces competitive intensity in organized healthcare.
-MCX,,X40N,ATH,W,1,0,1,M,MISC,,UP,,,4,Monopoly in commodity exchanges but regulatory and technological risks exist.
+MARUTI,,XR,ATH,D,1,1,0,X,AUTO,,UP,,,5,Dominant passenger car manufacturer with strong market share and cost-efficient operations.
+MASFIN,350,XR,ATH,D,1,1,0,H,FINANCE,1,,-74,,4,Well-managed NBFC with a focus on MSME lending but scalability concerns.
+MAXHEALTH,,AR,,W,1,1,0,X,HEALTHCARE,,UP,,,4,Leading hospital chain with strong brand but faces competitive intensity in organized healthcare.
+MCX,,X40N,ATH,W,1,0,1,X,MISC,,UP,,,4,Monopoly in commodity exchanges but regulatory and technological risks exist.
 MEDANTA,1486,XY24,NTT,D,1,0,1,H,HEALTHCARE,1,,30,,4,Leading multispecialty hospital with strong expansion potential but capital-intensive model.
+METROBRAND,,AR,ATH,D,1,0,1,H,FOOTWEAR,0,,30,,4,Strong retail player in India’s footwear market with a solid brand presence diversified product portfolio and strong growth potential driven by increasing consumer demand.
 METROPOLIS,3102,XR,NTT,W,1,0,1,H,HEALTHCARE,1,UP,33,,4,Trusted diagnostics brand with steady growth but rising competition from organized players.
 MOTILALOFS,1000,X40N,NTT,W,1,1,0,H,FINANCE,,UP,,,4.5,Strong financial services firm with a focus on wealth management and asset management.
 MRF,,AR,ATH,W,1,1,0,H,TYRES,-1,,,,4.5,Premium tire manufacturer with strong brand equity but faces margin pressure due to costs.
@@ -161,12 +164,12 @@ NAM-INDIA,,X40,ATH,D,1,0,0,M,FINANCE,,UP,,,4,Established asset management compan
 NATIONALUM,,,,,1,0,0,L,METALS,,UP,,,3,PSU aluminum producer with cyclical earnings and low pricing power.
 NAUKRI,,,ATH,,1,0,0,H,IT,,UP,,,5,Market leader in online recruitment with strong cash flows and new growth verticals.
 NEOGEN,2434,SR,BTT,W,1,0,0,M,CHEMICALS,0,UP,36,SR:2434,4,Specialty chemicals company with niche focus but relatively small scale.
-NESTLEIND,2925,X40,BTT,D,0,0,0,H,FMCG,1,,,,5,FMCG giant with strong brand portfolio; consistent growth; and ethical management.
+NESTLEIND,2925,X40,BTT,D,0,0,0,X,FMCG,1,,,,5,FMCG giant with strong brand portfolio; consistent growth; and ethical management.
 NETWORK18,,,,,1,0,0,L,MEDIA,,,,,3,Media company with fluctuating revenues and limited pricing power in the industry.
 NHPC,115,XY24,NTT,D,1,0,0,M,POWER,1,,-85,,3,PSU hydropower company with stable earnings but limited growth potential.
 NIACL,278,XR,ATH,W,1,0,1,M,INSURANCE,0,UP,442,,3,General insurance PSU with operational inefficiencies and intense competition.
 NMDC,184,XR,ATH,W,1,0,1,L,MINING,0,UP,507,,3,Largest iron ore producer but cyclical business and PSU governance challenges.
-NTPC,,,,,1,1,0,M,POWER,,UP,,,4,Leading power producer with stable cash flows but limited growth avenues.
+NTPC,,AR,ATH,,1,1,0,X,POWER,,UP,,,4,Leading power producer with stable cash flows but limited growth avenues.
 OFSS,,X40N,ATH,W,1,1,1,H,IT,,UP,,,4.5,Oracle's financial services arm with strong product suite and global presence.
 ONGC,,XR,ATH,W,1,0,0,L,OIL,,UP,,,3,PSU with exposure to volatile crude prices and limited growth prospects.
 PAGEIND,50000,X40,ATH,D,1,1,1,H,APPARELS,1,UP,16,SD: RHS 45146,5,Premium innerwear brand with strong market leadership and excellent financials.
@@ -174,7 +177,7 @@ PARAGMILK,273,AR,ATH,W,1,0,1,L,FMCG,,,,,3,Dairy company with limited differentia
 PEL,,,,,1,0,0,M,FINANCE,,UP,,,4,Diversified financial and pharma player with execution risks in NBFC business.
 PFIZER,5855,X40,ATH,D,1,0,0,H,PHARMA,,UP,,,5,Global pharma leader with strong R&D and robust financials in India.
 PGHH,18500,X40,ATH,D,0,0,0,H,FMCG,-1,,,,5,Premium FMCG player with consistent margins and strong brand equity.
-PIDILITIND,3576,X40,BTT,D,1,1,1,H,CHEMICALS,1,UP,12,,5,Adhesives leader with a strong moat; innovative products; and consistent performance.
+PIDILITIND,3576,X40,BTT,D,1,1,1,X,CHEMICALS,1,UP,12,,5,Adhesives leader with a strong moat; innovative products; and consistent performance.
 PIIND,,,ATH,,1,1,0,H,CHEMICALS,,UP,,,5,Leading agri-chemical player with strong R&D focus and robust export business.
 PNB,90,XR,ATH,W,1,1,1,L,BANKS,0,,238,,3,PSU bank with weak asset quality and governance challenges.
 POLYCAB,,X40N,ATH,W,1,1,1,H,CABLES,,UP,,,5,Market leader in cables and wires with diversification into consumer appliances.
@@ -210,7 +213,7 @@ SONATSOFTW,,MGC,ATH,W,1,0,1,H,IT,,,,,5,IT services player with strong focus on n
 SPORTKING,948.65,AR,ATH,W,1,0,1,L,TEXTILES,0,UP,-68,,3,Niche textile player; but operates in a commoditized and cyclical industry.
 SRF,2787,XR,ATH,W,1,0,1,H,CHEMICALS,0,,18,,5,Diversified chemicals leader with strong innovation; export focus; and consistent growth.
 STARHEALTH,761,XY24,NTT,W,1,1,1,M,INSURANCE,1,,-16,,4,Leading health insurer with growing market share but faces intense competition.
-SUNPHARMA,,,ATH,,1,1,0,H,PHARMA,,UP,,,5,Largest Indian pharma company with robust portfolio and global presence.
+SUNPHARMA,,,ATH,,1,1,0,X,PHARMA,,UP,,,5,Largest Indian pharma company with robust portfolio and global presence.
 SUNTV,1092,X40N,BTT,W,1,1,1,M,ENTERTAINMENT,1,UP,20,,3.5,Regional media leader; but faces challenges from digital streaming platforms.
 SURYODAY,240,XR,NTT,W,1,0,1,M,BANKS,1,UP,-39,VB: till ATH 311,3,Small finance bank with limited scale and rising competition in financial inclusion.
 SUZLON,,,,,1,0,0,L,ELECTRICAL,,UP,,,3,Pioneer in wind energy but historically burdened by high debt and execution challenges.
@@ -223,19 +226,19 @@ TATAELXSI,9000,X40N,NTT,W,1,1,1,H,IT,1,,-5,,5,Niche IT services player in design
 TATAMOTORS,1065,XY24,NTT,D,1,1,0,M,AUTO,1,UP,-70,,4,Improving fundamentals driven by EV focus but cyclical nature of auto industry remains.
 TATAPOWER,,XR,ATH,,1,1,0,M,ELECTRICAL,,UP,,,4,Strong push in renewable energy but faces regulatory and operational challenges.
 TATASTEEL,,,,,1,0,0,M,METALS,,UP,,,4,Global steel leader with improving cost efficiencies but cyclical exposure.
-TCS,4998,X40,BTT,D,1,1,1,H,IT,1,UP,12,,5,IT services giant with unparalleled scale; execution capabilities; and consistent growth.
+TCS,4998,X40,BTT,D,1,1,1,X,IT,1,UP,12,,5,IT services giant with unparalleled scale; execution capabilities; and consistent growth.
 TEAMLEASE,3487,X40N,NTT,W,1,0,1,M,MISC,,UP,9,,4,Market leader in staffing solutions but operates on thin margins.
 TECHM,,,,,1,0,0,M,IT,,UP,,,4,Diversified IT services player but lags peers in high-margin digital transformation.
 VEEDOL,,XR,ATH,D,1,1,0,L,CHEMICALS,,UP,,,3,Mid-tier lubricant player with limited pricing power in a competitive market.
 TIPSINDLTD,,,,,1,1,0,M,ENTERTAINMENT,,UP,,,4,Niche player in music content with rising digital monetization opportunities.
 TITAGARH,1548,XY24,NTT,D,1,1,0,M,ENGINEERING,1,UP,14,,4,Rail and infrastructure player benefiting from government capex but cyclical demand.
-TITAN,4713,X40,ATH,D,1,1,0,H,JEWELLERY,0,,,,5,Market leader in jewelry and watches with consistent growth and strong brand equity.
+TITAN,4713,X40,ATH,D,1,1,0,X,JEWELLERY,0,,,,5,Market leader in jewelry and watches with consistent growth and strong brand equity.
 TORNTPHARM,,,ATH,,1,1,0,H,PHARMA,,UP,,,5,Pharma leader with focus on branded generics and strong financials.
 TRIDENT,48,XR,NTT,W,1,0,0,M,TEXTILES,1,,-11,,4,Integrated textile player with improving fundamentals but cyclical industry exposure.
 TTKPRESTIG,,X40N,ATH,W,1,0,1,H,DURABLES,1,UP,6,,5,Kitchen appliance leader with strong brand presence and consistent growth.
 TV18BRDCST,,XR,ATH,D,1,0,1,L,ENTERTAINMENT,,,,,3,Media player with fluctuating revenues and limited pricing power.
 UJJIVANSFB,60,X40N,NTT,W,1,1,1,M,BANKS,1,,-25,,3,Similar to UJJIVAN; with challenges in scaling up and sustaining profitability.
-ULTRACEMCO,,,ATH,,1,1,0,H,CEMENT,,UP,,,5,Leading cement player with excellent cost efficiencies and market dominance.
+ULTRACEMCO,,AR,ATH,,1,1,0,X,CEMENT,,UP,,,5,Leading cement player with excellent cost efficiencies and market dominance.
 UNIONBANK,163,XY24,NTT,W,1,1,,M,BANKS,1,,-20,,3,PSU bank with weak asset quality but improving metrics.
 UNITDSPR,,X40N,ATH,W,0,0,0,H,BREWERIES,,,,,4.5,Market leader in premium alcoholic beverages with strong brand portfolio.
 UPL,737,AR,NTT,W,1,0,0,H,CHEMICALS,,,,,4.5,Global agrochemical player with robust portfolio but faces debt-related concerns.
@@ -247,9 +250,9 @@ VGUARD,,XR,ATH,D,1,1,1,M,ELECTRICAL,,UP,,,4,Consumer appliances player with cons
 VINATIORGA,1882,X40N,ATH,W,1,0,1,H,CHEMICALS,,UP,,,5,Specialty chemical leader with high margins and export focus.
 VIPIND,718,X40N,NTT,W,1,0,1,H,MISC,1,,-7,,5,Market leader in luggage with consistent growth and brand equity.
 VOLTAS,,,ATH,,1,1,0,H,AC,,UP,,,5,Market leader in air conditioning and cooling products with robust brand equity.
-WESTLIFE,,AR,,W,1,0,0,M,RESTAURANTS,,,,,4,McDonald's franchisee in India with strong growth but operates on thin margins.
+WESTLIFE,,AR,ATH,W,1,0,0,M,RESTAURANTS,,,,,4,McDonald's franchisee in India with strong growth but operates on thin margins.
 WHIRLPOOL,2270,X40,NTT,D,1,0,0,M,DURABLES,0,UP,34,SD: 2539,4,Consumer appliances leader with premium positioning but rising competition.
 WIPRO,611,XR,NTT,W,1,1,1,M,IT,0,UP,33,,4,IT services major but lags peers in growth and margins.
-WSTCSTPAPR,,XR,ATH,W,1,0,0,L,PAPER,,,,,3,Regional paper manufacturer with cyclical business and limited differentiation.
+WSTCSTPAPR,,XR,ATH,W,1,0,0,H,PAPER,,,,,3,Regional paper manufacturer with cyclical business and limited differentiation.
 YESBANK,,,,,1,0,0,L,BANKS,,UP,,,3,Private bank with improving metrics but a history of governance and asset quality issues.
 ZEEL,,,,,1,0,0,M,ENTERTAINMENT,,DOWN,,,3.5,Leading media player with challenges from streaming platforms and governance concerns.
