@@ -106,10 +106,10 @@ HSCL,,XR,ATH,W,1,1,0,L,CHEMICALS,,UP,,,3,Construction-focused PSU with cyclical 
 HINDALCO,,,,,1,0,0,M,METALS,,UP,,,4,Leading aluminum and copper producer with strong operational performance and global footprint.
 HINDPETRO,410,XR,BTT,D,1,0,0,L,REFINERIES,0,UP,1817,,3,PSU with limited pricing power due to government regulations and volatile margins.
 HINDUNILVR,3513,X40,BTT,D,1,1,0,H,FMCG,1,UP,-5,,5,FMCG leader with strong brand portfolio; consistent growth; and ethical management.
-HONAUT,44000,X40N,ATH,D,1,1,1,H,ELECTRICAL,0,UP,97,,4.5,Trusted automation and safety solution provider with niche market leadership.
+HONAUT,51640,X40N,ATH,D,1,1,1,H,ELECTRICAL,1,UP,97,,4.5,Trusted automation and safety solution provider with niche market leadership.
 IBREALEST,,,,,0,0,0,L,REALTY,,UP,,,3,Real estate player with cyclical business and governance concerns in the past.
 ICICIBANK,,X40,ATH,D,1,1,0,H,BANKS,,UP,,,5,Best-in-class private bank with consistent growth; strong digital focus; and asset quality.
-ICICIGI,1893,X40,ATH,D,1,1,1,H,INSURANCE,0,UP,52,,4.5,Leading general insurer with strong distribution but faces pricing pressures in the industry.
+ICICIGI,1893,X40,ATH,D,1,1,1,H,INSURANCE,-1,UP,52,,4.5,Leading general insurer with strong distribution but faces pricing pressures in the industry.
 ICICIPRULI,835,X40,ATH,D,1,0,0,H,INSURANCE,0,UP,103,,4.5,Life insurer with innovative products and consistent market share growth.
 IEX,219,XR,NTT,W,1,1,1,M,MISC,1,UP,28,,4,Monopoly in power exchange but regulatory risks exist.
 IGL,707,AR,BTT,W,1,1,0,M,GAS,,UP,,,4,Dominant player in city gas distribution with steady growth and high entry barriers.
@@ -196,7 +196,7 @@ SANOFI,7552,X40,NTT,D,0,0,1,H,PHARMA,,DOWN,,,5,Global pharma major with strong b
 SATIN,274,XY24,NTT,D,0,0,1,M,FINANCE,1,,-67,,3,Microfinance player with execution and asset quality concerns.
 SBICARD,1075,XY24,NTT,W,1,1,0,H,FINANCE,1,,-11,,4.5,Leading credit card issuer with strong parent backing and consistent growth.
 SBIETFPB,400,XY24,BTT,D,0,0,0,M,BANKS,1,UP,6,,4,ETF backed by PSU banking sector; reflects the mixed performance of its constituents.
-SBILIFE,,AR,ATH,D,1,1,0,H,INSURANCE,,UP,,,4.5,Leading life insurer with strong growth and efficient operations.
+SBILIFE,,AR,ATH,D,1,1,0,H,INSURANCE,-1,UP,,,4.5,Leading life insurer with strong growth and efficient operations.
 SBIN,735,XR,BTT,W,1,1,0,M,BANKS,0,UP,93,,4,Largest PSU bank with improving metrics but faces PSU inefficiencies.
 SCHAEFFLER ,,AR,,W,0,0,0,H,BEARINGS,,,,,5,Leading auto component player with strong product portfolio and technological expertise.
 SFL,1287,XY24,NTT,W,1,0,1,M,MISC,1,,-7,,4,Well-managed NBFC with a strong focus on niche lending but scalability constraints.
