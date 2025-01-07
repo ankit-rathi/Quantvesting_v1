@@ -169,7 +169,7 @@ NETWORK18,,,,,1,0,0,L,MEDIA,,,,,3,Media company with fluctuating revenues and li
 NHPC,115,XY24,NTT,D,1,0,0,M,POWER,1,,-85,,3,PSU hydropower company with stable earnings but limited growth potential.
 NIACL,278,XR,ATH,W,1,0,1,M,INSURANCE,0,UP,442,,3,General insurance PSU with operational inefficiencies and intense competition.
 NMDC,184,XR,ATH,W,1,0,1,L,MINING,0,UP,507,,3,Largest iron ore producer but cyclical business and PSU governance challenges.
-NTPC,,AR,ATH,,1,1,0,X,POWER,,UP,,,4,Leading power producer with stable cash flows but limited growth avenues.
+NTPC,,AR,ATH,,1,1,0,M,POWER,,UP,,,4,Leading power producer with stable cash flows but limited growth avenues.
 OFSS,,X40N,ATH,W,1,1,1,H,IT,,UP,,,4.5,Oracle's financial services arm with strong product suite and global presence.
 ONGC,,XR,ATH,W,1,0,0,L,OIL,,UP,,,3,PSU with exposure to volatile crude prices and limited growth prospects.
 PAGEIND,50000,X40,ATH,D,1,1,1,H,APPARELS,1,UP,16,SD: RHS 45146,5,Premium innerwear brand with strong market leadership and excellent financials.
