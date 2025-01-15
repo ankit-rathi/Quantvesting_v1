@@ -35,7 +35,7 @@ BAJAJHLDNG,,X40,ATH,D,1,1,0,M,FINANCE,,UP,,,4,Strong holding company with stakes
 BAJFINANCE,9150,X40,BTT,D,1,1,1,X,FINANCE,1,,12,,5,Exemplary management and business model with industry-leading ROE and growth.
 BALKRISIND,,XR,ATH,D,1,1,1,H,TYRES,,UP,,,4.5,Niche player in off-highway tires with strong global presence and efficient operations.
 BANDHANBNK,400,XY24,NTT,W,1,0,1,H,BANKS,1,,-25,,3.5,Strong microfinance focus but governance and asset quality concerns remain.
-BANKBARODA,283,XR,NTT,W,1,1,1,M,BANKS,1,,19,,3,Improved operations post-merger but still faces challenges in governance and NPAs.
+BANKBARODA,283,XR,NTT,W,1,1,1,M,BANKS,0,,19,,3,Improved operations post-merger but still faces challenges in governance and NPAs.
 BANKINDIA,190,XR,NTT,W,1,0,1,M,BANKS,1,,-9,SD: till 190,2.5,Public sector bank with persistent challenges in credit discipline and operational efficiency.
 BATAINDIA,2096,X40,NTT,D,1,0,1,M,FOOTWEAR,1,,-4,SD: till 1686,4,Trusted footwear brand with strong market presence but faces competition from new entrants.
 BAYERCROP,6805,X40N,NTT,D,1,0,1,H,CHEMICALS,1,UP,21,,4.5,Global agrochemical leader with strong R&D focus business quality impacted by cyclicality.
@@ -136,7 +136,7 @@ JMFINANCIL,,XR,ATH,W,1,0,1,M,FINANCE,0,UP,90,,3.5,Diversified financial services
 JPPOWER,26.2,XY24,NTT,W,1,1,1,L,POWER,1,UP,85,,3,Struggling power producer with high debt and operational inefficiencies.
 JSWHL,7487,XY24,BTT,D,1,0,1,H,FINANCE,,UP,,,3,Niche holding company with limited direct business opportunities.
 JSWSTEEL,,AR,ATH,D,1,0,0,H,STEEL,0,UP,802,,4,Leading steel manufacturer with strong domestic and global presence but cyclical earnings.
-JUBLFOOD,850,AR,NTT,W,1,0,1,M,RESTAURANTS,1,UP,28,,4,Dominant QSR player with strong brand and aggressive expansion but rising input costs.
+JUBLFOOD,850,AR,NTT,W,1,0,1,M,RESTAURANTS,0,UP,28,,4,Dominant QSR player with strong brand and aggressive expansion but rising input costs.
 JYOTHYLAB,,XR,ATH,D,1,1,1,M,FMCG,,UP,,,4,Niche FMCG player with a strong regional presence but limited scale compared to peers.
 KAJARIACER,,AR,ATH,D,1,1,1,H,CERAMICS,0,,,,,Market leader in the Indian tiles industry with strong brand equity a diverse product range and significant growth potential driven by urbanization and infrastructure development.
 KANSAINER,340,XY24,NTT,D,1,0,1,H,PAINTS,1,,-23,,5,Leader in decorative paints with strong growth potential and market leadership.
@@ -217,7 +217,7 @@ SPORTKING,948.65,AR,ATH,W,1,0,1,L,TEXTILES,0,UP,-68,,3,Niche textile player but 
 SRF,2787,XR,ATH,W,1,0,1,X,CHEMICALS,0,,18,,5,Diversified chemicals leader with strong innovation export focus and consistent growth.
 STARHEALTH,761,XY24,NTT,W,1,1,1,M,INSURANCE,1,,-16,,4,Leading health insurer with growing market share but faces intense competition.
 SUNPHARMA,,,ATH,,1,1,0,X,PHARMA,,UP,,,5,Largest Indian pharma company with robust portfolio and global presence.
-SUNTV,1092,X40N,BTT,W,1,1,1,M,ENTERTAINMENT,1,UP,20,,3.5,Regional media leader but faces challenges from digital streaming platforms.
+SUNTV,1092,X40N,BTT,W,1,1,1,M,ENTERTAINMENT,0,UP,20,,3.5,Regional media leader but faces challenges from digital streaming platforms.
 SURYODAY,240,XR,NTT,W,1,0,1,M,BANKS,1,UP,-39,VB: till ATH 311,3,Small finance bank with limited scale and rising competition in financial inclusion.
 SUZLON,,,,,1,0,0,L,ELECTRICAL,,UP,,,3,Pioneer in wind energy but historically burdened by high debt and execution challenges.
 SYMPHONY,1201,X40N,ATH,W,1,1,1,M,DURABLES,0,UP,75,,4,Market leader in air coolers but growth is seasonal and dependent on weather patterns.
