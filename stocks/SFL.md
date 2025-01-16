@@ -84,5 +84,5 @@ Sheela Foam Limited is one of India’s leading manufacturers of mattresses and 
 #### **Overall Assessment**: **High Quality**  
 Sheela Foam Limited is a high-quality company with a strong market position, excellent management, and promising growth prospects. While there are challenges such as raw material costs and competition, the company is well-positioned to benefit from the growing preference for branded products in the Indian market.  
 
-### Investor Consideration:  
+#### Investor Consideration:  
 SFL is suitable for investors seeking exposure to India’s consumer discretionary and industrial growth stories. However, it is important to monitor raw material price trends and the competitive landscape to ensure the sustainability of margins and growth.  
