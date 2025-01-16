@@ -1,4 +1,4 @@
-# Analysis and Rating of NSE: AARTIIND
+# Analysis and Rating of NSE: AARTIIND (Aarti Industries Ltd)
 
 ## Business Model (Simplified)
 Aarti Industries is a leading Indian manufacturer of specialty chemicals and pharmaceuticals, with a focus on benzene-based derivatives.
