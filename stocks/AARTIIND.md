@@ -71,5 +71,5 @@ Future Prospects |	⭐⭐⭐⭐☆ (4/5) |	Promising growth potential, albeit wi
 #### Overall Assessment: High Quality
 Aarti Industries is a solid business with strong management, good business fundamentals, and robust growth prospects. While not exceptional, the company's strengths outweigh its challenges, making it a high-quality investment opportunity. It is suitable for long-term investors looking to benefit from India's specialty chemicals growth story but with an understanding of the inherent cyclical risks and execution challenges.
 
-### Investor Consideration:
+#### Investor Consideration:
 Investors should closely monitor input cost trends, execution of expansion projects, and the global macroeconomic environment.
