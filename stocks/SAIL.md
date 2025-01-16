@@ -84,5 +84,5 @@ Steel Authority of India Limited (SAIL) is one of the largest state-owned steel-
 #### **Overall Assessment**: **Medium Quality**  
 SAIL is a medium-quality investment opportunity, benefiting from its strong position in India’s steel market and vertical integration. However, the company faces challenges from its cyclical nature, inefficiencies compared to private players, and global steel price volatility.  
 
-### Investor Consideration:  
+#### Investor Consideration:  
 SAIL may appeal to value investors seeking exposure to India’s growing infrastructure and urbanization story. However, investors should be prepared for cyclical earnings and closely monitor raw material costs and modernization progress.  
