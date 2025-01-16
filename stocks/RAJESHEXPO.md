@@ -82,5 +82,5 @@ Rajesh Exports Limited is one of the world’s largest manufacturers and exporte
 #### **Overall Assessment**: **Medium Quality**  
 Rajesh Exports Limited has a robust operational model and global leadership in the gold industry. However, concerns around transparency, governance, and dependency on external factors like gold prices reduce its appeal as an investment.  
 
-### Investor Consideration:  
+#### Investor Consideration:  
 Investors with a high-risk appetite and a specific interest in the gold industry may consider Rajesh Exports for its scale and export potential. However, prudent monitoring of corporate governance and macroeconomic trends is essential before investing.  
