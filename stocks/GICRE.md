@@ -84,5 +84,5 @@ General Insurance Corporation of India (GIC Re) is India's largest reinsurer, pl
 #### **Overall Assessment**: **High Quality**  
 GIC Re is a high-quality company with a dominant position in India’s reinsurance market and a growing global footprint. While exposed to risks like climate change and regulatory changes, its strong market position, government support, and growth opportunities in insurance make it a solid investment choice for long-term investors.  
 
-### Investor Consideration:  
+#### Investor Consideration:  
 Investors should monitor the company’s underwriting discipline, combined ratio trends, and exposure to catastrophic risks. The stock is suitable for those looking to benefit from the growth in the Indian insurance sector and rising global demand for reinsurance.  
