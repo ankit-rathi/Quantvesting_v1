@@ -81,5 +81,5 @@ Aavas Financiers Limited is a non-banking financial company (NBFC) specializing 
 #### **Overall Assessment**: **High Quality**  
 Aavas Financiers Limited is a high-quality business with strong management, a focused business model, and robust growth prospects in the affordable housing finance segment. However, the company faces risks from macroeconomic conditions and competitive pressures.  
 
-### Investor Consideration:  
+#### Investor Consideration:  
 Investors seeking exposure to India’s affordable housing finance story may find Aavas an attractive long-term investment. Close attention should be paid to rural income dynamics, funding costs, and loan book growth.  
