@@ -82,5 +82,5 @@ HDFC Bank is one of India’s largest private sector banks, known for its strong
 #### **Overall Assessment**: **Exceptional**  
 HDFC Bank is an exceptional business with outstanding management, strong fundamentals, and significant growth opportunities. It remains one of the best-run private sector banks in India, combining stability with consistent performance.  
 
-### Investor Consideration:  
+#### Investor Consideration:  
 HDFC Bank is suitable for conservative, long-term investors seeking steady compounding returns. Regular monitoring of macroeconomic conditions and regulatory policies is advisable but overall, the bank remains a low-risk, high-quality investment.  
