@@ -59,7 +59,6 @@ Rating: ⭐⭐⭐⭐☆ (4/5)
 - Growth relies heavily on executing planned capacity expansions and scaling operations efficiently.
 - Regulatory and geopolitical risks in its key export markets.
 ### Overall Ratings Summary
-hello 
 
 Criteria |	Rating |	Comments
 --- | --- | --- 
