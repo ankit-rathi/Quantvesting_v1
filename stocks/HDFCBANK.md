@@ -1,4 +1,4 @@
-# Analysis and Rating of NSE: HDFCBANK  
+# Analysis and Rating of NSE: HDFCBANK (HDFC Bank Ltd)
 
 ## Business Model (Simplified)  
 HDFC Bank is one of India’s largest private sector banks, known for its strong retail and wholesale banking operations.  
