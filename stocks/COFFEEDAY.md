@@ -83,5 +83,5 @@ Coffee Day Enterprises Limited (CDEL) is the parent company of Café Coffee Day 
 #### **Overall Assessment**: **Low Quality**  
 Coffee Day Enterprises is currently struggling with financial distress and governance challenges that overshadow its brand legacy. While the company’s market positioning in India’s coffee industry was once strong, its ability to recover and sustain growth is uncertain.
 
-### Investor Consideration:  
+#### Investor Consideration:  
 Given the significant risks associated with Coffee Day Enterprises, it is not a suitable investment for risk-averse investors. Any potential turnaround would require substantial restructuring, improved governance, and operational efficiencies. Investors should adopt a wait-and-watch approach or look for more stable opportunities in the FMCG or retail segments.
