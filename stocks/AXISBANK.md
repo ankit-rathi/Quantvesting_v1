@@ -1,4 +1,4 @@
-# Analysis and Rating of NSE: AXISBANK  
+# Analysis and Rating of NSE: AXISBANK  (Axis Bank Ltd)
 ## Business Model (Simplified)  
 Axis Bank is one of India’s leading private sector banks, offering a comprehensive suite of financial products and services to retail, SME, and corporate clients.  
 
