@@ -29,10 +29,10 @@ AVANTIFEED,615,XR,ATH,W,1,1,1,M,MISC,0,UP,56,,3.5,Leader in aquaculture feed wit
 AWL,485,XY24,NTT,W,1,0,1,H,FMCG,1,DOWN,-36,SD: 488,3.5,Leading edible oil manufacturer with significant market share but subject to commodity risks.
 AXISBANK,,X40,ATH,D,1,1,0,H,BANKS,1,UP,,,4,Improved governance under new leadership competitive private sector bank with robust growth.
 BAJAJ-AUTO,,X40,ATH,D,1,1,0,X,AUTO,0,UP,,,4.5,Market leader in two-wheelers with strong export presence focused capital allocation.
-BAJAJFINSV,2392,X40,BTT,D,1,1,1,X,FINANCE,1,UP,11,,5,Exceptional management with diversified financial services portfolio proven execution.
+BAJAJFINSV,2392,X40,BTT,D,1,1,1,X,FINANCE,0,UP,11,,5,Exceptional management with diversified financial services portfolio proven execution.
 BAJAJHIND,46,XR,ATH,W,1,0,1,L,SUGAR,0,UP,431,,2.5,Cyclical sugar business with limited pricing power and weak governance history.
 BAJAJHLDNG,,X40,ATH,D,1,1,0,M,FINANCE,,UP,,,4,Strong holding company with stakes in high-performing Bajaj group entities.
-BAJFINANCE,9150,X40,BTT,D,1,1,1,X,FINANCE,1,,19,,5,Exemplary management and business model with industry-leading ROE and growth.
+BAJFINANCE,9150,X40,BTT,D,1,1,1,X,FINANCE,0,,19,,5,Exemplary management and business model with industry-leading ROE and growth.
 BALKRISIND,,XR,ATH,D,1,1,1,H,TYRES,,UP,,,4.5,Niche player in off-highway tires with strong global presence and efficient operations.
 BANDHANBNK,400,XY24,NTT,W,1,0,1,H,BANKS,1,,-29,,3.5,Strong microfinance focus but governance and asset quality concerns remain.
 BANKBARODA,283,XR,NTT,W,1,1,1,M,BANKS,0,,11,,3,Improved operations post-merger but still faces challenges in governance and NPAs.
@@ -256,7 +256,7 @@ VIPIND,718,X40N,NTT,W,1,0,1,H,MISC,1,,-47,,5,Market leader in luggage with consi
 VOLTAS,,,ATH,,1,1,0,H,AC,,UP,,,5,Market leader in air conditioning and cooling products with robust brand equity.
 WESTLIFE,,AR,ATH,W,1,0,0,M,RESTAURANTS,,,,,4,McDonald's franchisee in India with strong growth but operates on thin margins.
 WHIRLPOOL,2270,X40,NTT,D,1,0,0,M,DURABLES,0,UP,34,SD: 2539,4,Consumer appliances leader with premium positioning but rising competition.
-WIPRO,420,XR,NTT,W,1,1,1,M,IT,1,UP,33,,4,IT services major but lags peers in growth and margins.
+WIPRO,420,XR,NTT,W,1,1,1,M,IT,0,UP,33,,4,IT services major but lags peers in growth and margins.
 WSTCSTPAPR,,XR,ATH,W,1,0,0,M,PAPER,,,,,3,Regional paper manufacturer with cyclical business and limited differentiation.
 YESBANK,,,,,1,0,0,L,BANKS,,UP,,,3,Private bank with improving metrics but a history of governance and asset quality issues.
 ZEEL,,,,,1,0,0,M,ENTERTAINMENT,,DOWN,,,3.5,Leading media player with challenges from streaming platforms and governance concerns.
