@@ -203,7 +203,7 @@ SATIN,274,XY24,NTT,D,0,0,1,H,FINANCE,1,,-58,,3,Microfinance player with executio
 SBICARD,1075,XY24,NTT,W,1,1,0,H,FINANCE,1,,-1,,4.5,Leading credit card issuer with strong parent backing and consistent growth.
 SBIETFPB,400,XY24,BTT,D,0,0,0,M,BANKS,1,UP,0,,4,ETF backed by PSU banking sector reflects the mixed performance of its constituents.
 SBILIFE,,AR,ATH,D,1,1,0,H,INSURANCE,1,UP,,,4.5,Leading life insurer with strong growth and efficient operations.
-SBIN,735,XR,BTT,W,1,1,0,M,BANKS,0,UP,93,,4,Largest PSU bank with improving metrics but faces PSU inefficiencies.
+SBIN,863,XY25,NTT,W,1,1,0,M,BANKS,1,UP,93,,4,Largest PSU bank with improving metrics but faces PSU inefficiencies.
 SCHAEFFLER ,,AR,ATH,W,0,0,0,H,BEARINGS,,,,,5,Leading auto component player with strong product portfolio and technological expertise.
 SFL,1287,XY24,NTT,W,1,0,1,H,MISC,1,,-13,,4,Well-managed NBFC with a strong focus on niche lending but scalability constraints.
 SHALBY,327,XY24,NTT,W,1,1,1,M,HEALTHCARE,1,,-31,,3,Hospital chain with regional focus and limited differentiation in a competitive market.
