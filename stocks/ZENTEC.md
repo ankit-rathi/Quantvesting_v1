@@ -58,8 +58,8 @@ Rating: ⭐⭐⭐⭐☆ (4/5)
 - Need for continued innovation to stay ahead of global competition.
 
 ### Overall Ratings Summary
-Criteria | Rating | Comments
- - - | - - | - - 
+| Criteria            | Rating             | Comments                                                                 |
+|---------------------|--------------------|--------------------------------------------------------------------------|
 Management Quality | ⭐⭐⭐⭐☆ (4/5) | Strong leadership with a focus on R&D and execution.
 Business Quality | ⭐⭐⭐⭐☆ (4/5) | Niche market leader with a strong technology portfolio.
 Future Prospects | ⭐⭐⭐⭐☆ (4/5) | Positive outlook driven by increasing defense spending.
