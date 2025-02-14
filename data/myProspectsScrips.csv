@@ -31,7 +31,7 @@ AXISBANK,,X40,ATH,D,1,1,0,H,BANKS,1,UP,,,4,Improved governance under new leaders
 BAJAJ-AUTO,,X40,ATH,D,1,1,0,X,AUTO,0,UP,,,4.5,Market leader in two-wheelers with strong export presence focused capital allocation.
 BAJAJFINSV,2392,X40,BTT,D,1,1,1,X,FINANCE,0,UP,11,,5,Exceptional management with diversified financial services portfolio proven execution.
 BAJAJHIND,46,XR,ATH,W,1,0,1,L,SUGAR,0,UP,431,,2.5,Cyclical sugar business with limited pricing power and weak governance history.
-BAJAJHLDNG,,X40,ATH,D,1,1,0,M,FINANCE,,UP,,,4,Strong holding company with stakes in high-performing Bajaj group entities.
+BAJAJHLDNG,,X40,ATH,D,1,1,0,H,FINANCE,,UP,,,4,Strong holding company with stakes in high-performing Bajaj group entities.
 BAJFINANCE,9150,X40,BTT,D,1,1,1,X,FINANCE,0,,19,,5,Exemplary management and business model with industry-leading ROE and growth.
 BALKRISIND,,XR,ATH,D,1,1,1,H,TYRES,,UP,,,4.5,Niche player in off-highway tires with strong global presence and efficient operations.
 BANDHANBNK,400,XY24,NTT,W,1,0,1,H,BANKS,1,,-29,,3.5,Strong microfinance focus but governance and asset quality concerns remain.
@@ -50,14 +50,14 @@ BPCL,,XR,ATH,D,1,0,0,L,OIL,,UP,,,3,Government-owned oil company facing pricing a
 BRITANNIA,,AR,ATH,D,1,1,0,X,FMCG,1,UP,239,,5,Market leader in biscuits and bakery products with efficient capital allocation and branding.
 BSOFT,,XR,ATH,D,1,1,1,M,IT,1,,-28,,4,IT services company with strong growth potential in digital transformation projects.
 CAMPUS,393,XY24,NTT,W,1,0,0,M,FOOTWEAR,1,UP,-16,,3.5,Growing player in affordable footwear but lacks a strong competitive moat.
-CAMS,4450,XR,ATH,W,1,1,1,M,MISC,1,UP,261,,4,Monopoly-like position in mutual fund RTA services well-run with strong cash flow generation.
+CAMS,4450,XR,ATH,W,1,1,1,H,MISC,1,UP,261,,4,Monopoly-like position in mutual fund RTA services well-run with strong cash flow generation.
 CANBK,,,,,1,1,0,L,BANKS,,,,,3,PSU bank showing some improvement but still faces governance and credit quality issues.
 CAPLIPOINT,,X40N,ATH,W,1,1,1,X,PHARMA,,UP,,,4,Niche pharma player with a focus on generics and injectables consistent operational performance.
 CASTROLIND,172,XR,ATH,W,0,0,1,M,CHEMICALS,0,UP,2824,,4,Strong brand in lubricants but faces headwinds from EV adoption and slowing demand.
 CDSL,1985,XR,ATH,W,1,1,1,H,MISC,0,UP,271,,4.5,Dominant player in depository services strong business model with high operating leverage.
 CENTRALBK,,XR,ATH,W,1,0,1,L,BANKS,,,,,2.5,Struggling PSU bank with weak governance and a high proportion of stressed assets.
 CERA,9475,X40N,ATH,W,1,1,1,X,CERAMICS,1,,-57,,5,Leading player in sanitaryware with consistent growth strong brand and efficient management.
-CHOLAFIN,,,,,1,1,0,M,FINANCE,,UP,,,4,Well-managed NBFC with a strong presence in vehicle and SME financing.
+CHOLAFIN,,AR,ATH,W,1,1,0,H,FINANCE,,UP,,,4,Well-managed NBFC with a strong presence in vehicle and SME financing.
 CIPLA,,,ATH,,1,1,0,H,PHARMA,,UP,,,4.5,Trusted pharma company with strong domestic and international presence well-diversified.
 CLEAN,2137,XR,NTT,W,1,0,1,H,CHEMICALS,0,UP,0,,3.5,Renewable energy player with solid potential but limited execution history.
 COALINDIA,,,,,1,1,0,L,MINING,,UP,,,3,Dominant coal producer but faces ESG concerns and regulatory headwinds.
@@ -234,7 +234,7 @@ TEAMLEASE,3487,X40N,NTT,W,1,0,1,M,MISC,,UP,2,,4,Market leader in staffing soluti
 TECHM,,,,,1,0,0,M,IT,,UP,,,4,Diversified IT services player but lags peers in high-margin digital transformation.
 VEEDOL,,XR,ATH,D,1,1,0,L,CHEMICALS,,UP,,,3,Mid-tier lubricant player with limited pricing power in a competitive market.
 TIPSINDLTD,,,,,1,1,0,M,ENTERTAINMENT,,UP,,,4,Niche player in music content with rising digital monetization opportunities.
-TITAGARH,1548,XY24,NTT,D,1,1,0,M,ENGINEERING,1,UP,-40,,4,Rail and infrastructure player benefiting from government capex but cyclical demand.
+TITAGARH,1548,XY24,NTT,D,1,1,0,H,ENGINEERING,1,UP,-40,,4,Rail and infrastructure player benefiting from government capex but cyclical demand.
 TITAN,4713,X40,ATH,D,1,1,0,X,JEWELLERY,0,,,,5,Market leader in jewelry and watches with consistent growth and strong brand equity.
 TORNTPHARM,,,ATH,,1,1,0,H,PHARMA,,UP,,,5,Pharma leader with focus on branded generics and strong financials.
 TRIDENT,48,XR,NTT,W,1,0,0,M,TEXTILES,1,,-16,,4,Integrated textile player with improving fundamentals but cyclical industry exposure.
@@ -244,7 +244,7 @@ UJJIVANSFB,60,X40N,NTT,W,1,1,1,M,BANKS,1,,-27,,3,Similar to UJJIVAN with challen
 ULTRACEMCO,,AR,ATH,,1,1,0,X,CEMENT,,UP,,,5,Leading cement player with excellent cost efficiencies and market dominance.
 UNIONBANK,163,XY24,NTT,W,1,1,,M,BANKS,1,,-39,,3,PSU bank with weak asset quality but improving metrics.
 UNITDSPR,,X40N,ATH,W,0,0,0,H,BREWERIES,,,,,4.5,Market leader in premium alcoholic beverages with strong brand portfolio.
-UPL,737,AR,NTT,W,1,0,0,H,CHEMICALS,,,,,4.5,Global agrochemical player with robust portfolio but faces debt-related concerns.
+UPL,737,AR,NTT,W,1,0,0,M,CHEMICALS,,,,,4.5,Global agrochemical player with robust portfolio but faces debt-related concerns.
 UTIAMC,1207,XY24,ATH,W,1,1,1,M,FINANCE,0,UP,96,,4,Established mutual fund player but lags private peers in growth.
 V2RETAIL,,AR,ATH,D,1,1,1,H,TEXTILES,,,,,,Stands out for its strong management robust business model in retail and promising future growth potential making it a solid choice in the micro-cap segment.
 VAIBHAVGBL,521,XR,NTT,W,1,0,1,X,JEWELLERY,1,,-24,VB: range bound target 520,4,Niche jewelry and lifestyle retailer with strong export focus.
