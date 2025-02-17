@@ -144,7 +144,7 @@ KOTAKBANK,2270,X40,BTT,D,1,1,0,X,BANKS,0,UP,4,,5,Premier private bank with ethic
 LALPATHLAB,3545,X40N,NTT,W,1,1,1,H,HEALTHCARE,0,UP,12,,4.5,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
 LAOPALA,464,AR,NTT,D,0,0,0,H,CERAMICS,1,,-50,,4,Niche glassware manufacturer with steady growth and limited competition.
 LICHSGFIN,692,AR,ATH,W,1,1,1,L,FINANCE,,UP,,,3,PSU-backed housing finance company with sluggish growth and high competition.
-LICI,983.6,X25,NTT,W,1,0,1,H,INSURANCE,0,UP,202,,3.5,India's largest insurer with strong market share but governance challenges as a PSU.
+LICI,983,XY25,NTT,W,1,0,1,H,INSURANCE,1,UP,202,,3.5,India's largest insurer with strong market share but governance challenges as a PSU.
 LT,,X200,ATH,W,1,1,0,X,ENGINEERING,,,,,5,Engineering and infrastructure leader with excellent execution and strong global footprint.
 LTIM,7000,X200,ATH,W,1,1,1,X,IT,1,UP,7,,5,Leading IT services firm with strong growth and focus on digital transformation.
 LUPIN,,,,,1,1,0,M,PHARMA,,UP,,,4,Strong pharma player but faces margin pressure and regulatory challenges.
