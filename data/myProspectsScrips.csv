@@ -176,7 +176,7 @@ NMDC,82,XY25,NTT,W,1,0,1,M,MINING,1,UP,507,,XY25/X5K,Largest iron ore producer b
 NTPC,,AR,ATH,,1,1,0,M,POWER,,UP,,,AR/X5K,Leading power producer with stable cash flows but limited growth avenues.
 OFSS,,X40N,ATH,W,1,1,1,H,IT,,UP,,,X40N,Oracle's financial services arm with strong product suite and global presence.
 ONGC,,XR,ATH,W,1,0,0,L,OIL,,UP,,,XR/X5K,PSU with exposure to volatile crude prices and limited growth prospects.
-PAGEIND,50000,X40,ATH,D,1,1,1,H,APPARELS,1,UP,16,SD: RHS 45146,X40,Premium innerwear brand with strong market leadership and excellent financials.
+PAGEIND,50000,X40,ATH,D,1,1,1,H,APPARELS,0,UP,16,SD: RHS 45146,X40,Premium innerwear brand with strong market leadership and excellent financials.
 PARAGMILK,273,AR,ATH,W,1,0,1,L,FMCG,,,,,AR,Dairy company with limited differentiation and rising competition in the sector.
 PEL,,,,,1,0,0,M,FINANCE,,UP,,,,Diversified financial and pharma player with execution risks in NBFC business.
 PFIZER,5855,X40,ATH,D,1,0,0,H,PHARMA,1,UP,,,X40,Global pharma leader with strong R&D and robust financials in India.
