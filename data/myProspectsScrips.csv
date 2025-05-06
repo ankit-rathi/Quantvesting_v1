@@ -1,4 +1,4 @@
-Symbol,Target,Criteria,Strategy,TFrame,LatestQtr,StarStock,BizFinTech,Conviction,Category,InFolio,Momentum,XIRR,Remarks,MBQ,Reasoning
+Symbol,Target,Criteria,Strategy,TFrame,LatestQtr,StarStock,CumlRnk,Conviction,Category,InFolio,Momentum,XIRR,Remarks,MBQ,Reasoning
 3MINDIA,50570,X40N,ATH,D,1,1,1,H,MISC,,UP,,,X40N,Globally diversified company with exceptional management and strong moat across industries.
 5PAISA,810,X40N,BTT,W,1,1,1,H,FINANCE,1,,20,SD: V20 598,X40N,Competitive discount brokerage with a growing market but limited profitability visibility.
 AARTIIND,919,XR,NTT,W,1,0,0,M,CHEMICALS,1,,-8,,XR,Leading specialty chemical manufacturer with robust exports and consistent execution.
@@ -89,7 +89,7 @@ FOSECOIND,,EXP50,ATH,W,0,0,1,M,CHEMICALS,,UP,,,EXP50,Specialty chemical company 
 GAIL,,,,,1,0,0,L,GAS,,UP,,,X5K,Largest natural gas company in India government ownership limits operational flexibility.
 GEOJITFSL,,XR,ATH,D,1,1,0,L,FINANCE,,UP,,,XR,Regional player in financial services with limited competitive advantage.
 GICRE,583,XY24,BTT,W,1,0,1,H,INSURANCE,1,UP,109,,XY24/X5K,State-owned reinsurer with pricing challenges and lack of operational agility.
-GILLETTE,8980,X40,ATH,D,0,0,1,H,FMCG,,UP,64,,X40,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
+GILLETTE,8980,X40,ATH,D,0,0,1,H,FMCG,1,UP,64,,X40,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
 GLAND,3442,XR,NTT,W,1,0,1,H,PHARMA,,UP,17,SD: 2612,XR,Focused on injectables with strong global presence but faces execution challenges.
 GLAXO,3182,X40,ATH,D,1,0,1,H,PHARMA,,UP,,,X40,Strong brand and diversified pharma portfolio but slower growth compared to peers.
 GODREJCP,,X40N,ATH,,1,0,0,M,FMCG,,UP,,,X40N,Trusted FMCG player with strong presence in home and personal care but faces tough competition.
@@ -142,7 +142,7 @@ JYOTHYLAB,,XR,ATH,D,1,1,1,M,FMCG,,UP,,,XR,Niche FMCG player with a strong region
 KAJARIACER,,AR,ATH,D,1,1,1,H,CERAMICS,,,,,AR,Market leader in the Indian tiles industry with strong brand equity a diverse product range and significant growth potential driven by urbanization and infrastructure development.
 KANSAINER,340,XY24,NTT,D,1,0,1,H,PAINTS,1,,-30,,XY24/X40N,Leader in decorative paints with strong growth potential and market leadership.
 KOTAKBANK,2270,X40,BTT,D,1,1,0,X,BANKS,,UP,4,,X40/X5K,Premier private bank with ethical management strong growth and robust asset quality.
-LALPATHLAB,3545,X40N,NTT,W,1,1,1,H,HEALTHCARE,,UP,12,,X40N,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
+LALPATHLAB,3545,X40N,NTT,W,1,1,1,H,HEALTHCARE,1,UP,12,,X40N,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
 LAOPALA,464,AR,NTT,D,0,0,0,H,CERAMICS,1,,-50,,AR,Niche glassware manufacturer with steady growth and limited competition.
 LICHSGFIN,692,AR,ATH,W,1,1,1,L,FINANCE,,UP,,,AR/X5K,PSU-backed housing finance company with sluggish growth and high competition.
 LICI,983,XY25,NTT,W,1,0,1,H,INSURANCE,1,UP,202,,XY25/X5K,India's largest insurer with strong market share but governance challenges as a PSU.
