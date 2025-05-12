@@ -171,9 +171,9 @@ NAUKRI,,,ATH,,0,0,58,H,IT,,UP,,,,Market leader in online recruitment with strong
 NEOGEN,2434,SR,BTT,W,0,0,,M,CHEMICALS,,UP,36,SR:2434,SR,Specialty chemicals company with niche focus but relatively small scale.
 NESTLEIND,2755,XY25,NTT,D,0,0,155,X,FMCG,1,,,,XY25/X40,FMCG giant with strong brand portfolio consistent growth and ethical management.
 NETWORK18,,,,,0,0,163,L,MEDIA,,,,,,Media company with fluctuating revenues and limited pricing power in the industry.
-NHPC,115,XY24,NTT,D,0,0,212,M,POWER,1,,-54,,XY24,PSU hydropower company with stable earnings but limited growth potential.
+NHPC,115,XY24,NTT,D,0,0,212,M,POWER,,,-54,,XY24,PSU hydropower company with stable earnings but limited growth potential.
 NIACL,278,XR,ATH,W,0,0,183,M,INSURANCE,,UP,442,,XR,General insurance PSU with operational inefficiencies and intense competition.
-NMDC,82,XY25,NTT,W,-1,0,73,M,MINING,1,UP,507,,XY25/X5K,Largest iron ore producer but cyclical business and PSU governance challenges.
+NMDC,82,XY25,NTT,W,-1,0,73,M,MINING,,UP,507,,XY25/X5K,Largest iron ore producer but cyclical business and PSU governance challenges.
 NTPC,,AR,ATH,,-1,0,175,M,POWER,,UP,,,AR/X5K,Leading power producer with stable cash flows but limited growth avenues.
 OFSS,,X40N,ATH,W,1,1,52,H,IT,,UP,,,X40N,Oracle's financial services arm with strong product suite and global presence.
 ONGC,,XR,ATH,W,0,0,97,L,OIL,,UP,,,XR/X5K,PSU with exposure to volatile crude prices and limited growth prospects.
