@@ -3,7 +3,7 @@ Symbol,Target,Criteria,Strategy,TFrame,LatestQtr,StarStock,CumlRnk,Conviction,Ca
 5PAISA,810,X40N,BTT,W,1,0,132,H,FINANCE,1,,20,SD: V20 598,X40N,Competitive discount brokerage with a growing market but limited profitability visibility.
 AARTIIND,919,XR,NTT,W,1,0,205,M,CHEMICALS,1,,-8,,XR,Leading specialty chemical manufacturer with robust exports and consistent execution.
 AAVAS,2328,XY24,NTT,W,1,1,199,M,FINANCE,,UP,6,,XY24,Well-managed housing finance company with disciplined credit underwriting.
-ABB,,AR,ATH,D,0,0,26,H,ELECTRICAL,1,,,,AR,
+ABB,7934,AR,NTT,D,0,0,26,H,ELECTRICAL,1,,,,AR,
 ABBOTINDIA,27500,X40,ATH,D,1,1,97,H,PHARMA,,UP,,,X40,High-quality pharmaceutical company with strong ethical practices and brand presence.
 ABSLAMC,615,XR,ATH,W,0,0,200,M,FINANCE,,UP,47,,XR,Reputable asset manager benefiting from a growing mutual fund industry.
 ACC,3906,XY24,BTT,D,0,0,154,M,CEMENT,1,UP,-37,,XY24,Strong player in the cement sector with operational excellence under Adani Group.
@@ -72,8 +72,8 @@ DEEPAKNTR,,AR,ATH,W,0,0,62,X,CHEMICALS,,UP,,,AR,Leading specialty chemical manuf
 DEN,75,AR,NTT,W,0,0,236,L,ENTERTAINMENT,1,UP,-21,,AR,Struggles with profitability and scalability in a highly competitive cable TV business.
 DIVISLAB,5029,AR,ATH,D,0,0,22,X,PHARMA,,UP,,,AR,Global leader in APIs with strong R&D focus and ethical management.
 DIXON,,X40N,ATH,W,0,0,88,H,IT,,UP,,,X40N,Leading contract manufacturer in India with robust growth and operational efficiency.
-DLF,,AR,ATH,D,0,0,28,H,REALTY,1,UP,,,AR,Real estate major with cyclical business and governance challenges in the past.
-DMART,5112,AR,NTT,W,0,0,15,X,FMCG,1,UP,33,,AR,Industry leader in retail with cost-efficient operations and excellent execution.
+DLF,885,AR,NTT,D,0,0,28,H,REALTY,1,UP,,,AR,Real estate major with cyclical business and governance challenges in the past.
+DMART,5201,AR,NTT,W,0,0,15,X,FMCG,1,UP,33,,AR,Industry leader in retail with cost-efficient operations and excellent execution.
 DREAMFOLKS,,EXP50,ATH,W,0,0,246,M,MISC,,,,,EXP50,Emerging leader in lounge access services scalability and execution risks remain.
 DRREDDY,,XR,ATH,D,1,1,,X,PHARMA,,UP,,,XR/X5K,Trusted pharma brand with strong global presence but faces price erosion in key markets.
 EASEMYTRIP,26.4,XY24,NTT,W,0,0,172,M,TRAVEL,1,,-91,,XY24,Asset-light online travel agency with scalability potential but limited competitive moat.
