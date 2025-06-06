@@ -74,7 +74,7 @@ DEEPAKNTR,,AR,ATH,W,0,0,62,X,CHEMICALS,,UP,,,AR,Leading specialty chemical manuf
 DEN,75,AR,NTT,W,0,0,243,L,ENTERTAINMENT,1,UP,-21,,AR,Struggles with profitability and scalability in a highly competitive cable TV business.
 DIVISLAB,5029,AR,ATH,D,0,0,22,X,PHARMA,,UP,,,AR,Global leader in APIs with strong R&D focus and ethical management.
 DIXON,,X40N,ATH,W,0,0,91,H,IT,,UP,,,X40N,Leading contract manufacturer in India with robust growth and operational efficiency.
-DLF,885,AR,NTT,D,0,0,34,H,REALTY,1,UP,,,AR,Real estate major with cyclical business and governance challenges in the past.
+DLF,885,AR,NTT,D,0,0,34,H,REALTY,,UP,,,AR,Real estate major with cyclical business and governance challenges in the past.
 DMART,5201,X40N,NTT,W,0,0,15,X,FMCG,1,UP,33,,X40N,Industry leader in retail with cost-efficient operations and excellent execution.
 DREAMFOLKS,,EXP50,ATH,W,0,0,253,M,MISC,,,,,EXP50,Emerging leader in lounge access services scalability and execution risks remain.
 DRREDDY,,XR,ATH,D,1,1,,X,PHARMA,,UP,,,XR/X5K,Trusted pharma brand with strong global presence but faces price erosion in key markets.
@@ -187,7 +187,7 @@ ONGC,,XR,ATH,W,0,0,149,L,OIL,,UP,,,XR/X5K,PSU with exposure to volatile crude pr
 PAGEIND,50000,X40,ATH,D,0,0,94,H,APPARELS,,UP,16,SD: RHS 45146,X40,Premium innerwear brand with strong market leadership and excellent financials.
 PARAGMILK,273,AR,ATH,W,0,0,261,L,FMCG,,,,,AR,Dairy company with limited differentiation and rising competition in the sector.
 PEL,,,,,0,0,230,M,FINANCE,,UP,,,,Diversified financial and pharma player with execution risks in NBFC business.
-PFIZER,5855,X40,ATH,D,0,0,137,H,PHARMA,1,UP,,,X40,Global pharma leader with strong R&D and robust financials in India.
+PFIZER,5855,X40,ATH,D,0,0,137,H,PHARMA,,UP,,,X40,Global pharma leader with strong R&D and robust financials in India.
 PGHH,18500,X40,ATH,D,0,0,50,X,FMCG,,,,,XY25/X40,Premium FMCG player with consistent margins and strong brand equity.
 PIDILITIND,3202,X40,ATH,D,1,1,12,X,CHEMICALS,,UP,10,,X40,Adhesives leader with a strong moat innovative products and consistent performance.
 PIIND,,,ATH,,0,0,104,H,CHEMICALS,,UP,,,,Leading agri-chemical player with strong R&D focus and robust export business.
