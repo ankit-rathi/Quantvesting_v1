@@ -1,7 +1,7 @@
 Symbol,Target,Criteria,Strategy,TFrame,LatestQtr,StarStock,CumlRnk,Conviction,Category,InFolio,Momentum,XIRR,Remarks,MBQ,Reasoning
 3MINDIA,50570,OX40N,ATH,D,0,0,112,H,MISC,,UP,,,OX40N,Globally diversified company with exceptional management and strong moat across industries.
 5PAISA,565,OX40N,NTT,W,1,0,148,H,FINANCE,1,,20,SD: V20 598,OX40N,Competitive discount brokerage with a growing market but limited profitability visibility.
-AARTIIND,919,XR,NTT,W,1,0,227,M,CHEMICALS,1,,-8,,XR,Leading specialty chemical manufacturer with robust exports and consistent execution.
+AARTIIND,919,XR,NTT,W,1,0,227,M,CHEMICALS,,,-8,,XR,Leading specialty chemical manufacturer with robust exports and consistent execution.
 AAVAS,2328,XY24,NTT,W,1,1,214,M,FINANCE,,UP,6,,XY24,Well-managed housing finance company with disciplined credit underwriting.
 ABB,7934,AR,NTT,D,0,0,27,H,ELECTRICAL,1,,,,AR,
 ABBOTINDIA,27500,X40,ATH,D,1,1,108,H,PHARMA,,UP,,,X40,High-quality pharmaceutical company with strong ethical practices and brand presence.
@@ -211,7 +211,7 @@ QUESS,986,XY24,NTT,D,0,0,190,M,MISC,1,UP,-33,,XY24/X40N,Staffing and outsourcing
 RADICO,,X40N,ATH,W,1,1,185,M,MISC,,UP,,,X40N,Alcoholic beverage player with strong premiumization strategy and consistent growth.
 RAJESHEXPO,518,OX40N,NTT,W,0,0,233,M,JEWELLERY,1,DOWN,-49,,OX40N,Gold trading company with low margins and limited value addition.
 RAYMOND,,X5K,ATH,D,0,0,193,M,REALTY,,,,,X5K,
-RBLBANK,388,XY24,NTT,W,0,0,242,M,BANKS,1,DOWN,-48,,XY24,Small private bank with improving metrics but historical governance and asset quality issues.
+RBLBANK,388,XY24,NTT,W,0,0,242,M,BANKS,,DOWN,-48,,XY24,Small private bank with improving metrics but historical governance and asset quality issues.
 RECLTD,,X5K,ATH,D,,,72,M,FINANCE,,,,,X5K,
 RELAXO,1176,X40N,NTT,W,1,0,131,H,FOOTWEAR,1,,-26,,X40N,Affordable footwear leader with consistent growth but rising input cost challenges.
 RELIANCE,1526,XY25,NTT,D,1,0,19,X,REFINERIES,1,UP,67,,XY25/X40/X5K,Diversified conglomerate with leading positions in telecom retail and petrochemicals.
