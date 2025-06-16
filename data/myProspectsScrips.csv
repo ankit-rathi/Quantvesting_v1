@@ -34,7 +34,7 @@ AWL,485,XY24,NTT,W,0,0,98,H,FMCG,1,DOWN,-36,SD: 488,XY24/X40N,Leading edible oil
 AXISBANK,,X40,ATH,D,1,1,41,H,BANKS,,UP,,,X40/X5K,Improved governance under new leadership competitive private sector bank with robust growth.
 BAJAJ-AUTO,,X40,ATH,D,0,0,3,X,AUTO,,UP,,,X40/X5K,Market leader in two-wheelers with strong export presence focused capital allocation.
 BAJAJFINSV,2392,X40,BTT,D,1,1,20,X,FINANCE,,UP,11,,X40/X5K,Exceptional management with diversified financial services portfolio proven execution.
-BAJAJHFL,,X40N,ATH,D,0,0,78,M,,,,,,X40N,
+BAJAJHFL,152,X40N,BTT,D,0,0,78,H,FINANCE,1,,,,X40N,
 BAJAJHIND,46,XR,ATH,W,0,0,264,L,SUGAR,,UP,431,,XR,Cyclical sugar business with limited pricing power and weak governance history.
 BAJAJHLDNG,,X40,ATH,D,-1,0,50,H,FINANCE,,UP,,,X40/X5K,Strong holding company with stakes in high-performing Bajaj group entities.
 BAJFINANCE,9150,X40,BTT,D,1,1,18,X,FINANCE,,,19,,X40/X5K,Exemplary management and business model with industry-leading ROE and growth.
@@ -131,7 +131,6 @@ INDIAMART,,AR,ATH,D,0,0,122,H,MISC,1,,,,AR,
 INDIANB,,,,,1,1,251,L,BANKS,,,,,X5K,PSU bank with improving asset quality but still faces operational challenges.
 INDIGO,,AR,ATH,D,0,0,80,M,AIRLINES,,UP,,,AR/X5K,Market leader in aviation with cost-efficient operations but cyclical industry dynamics.
 INDIGOPNTS,1408,OX40N,NTT,W,0,0,127,H,PAINTS,1,UP,-1,,OX40N,Rapidly growing paints company leveraging strong demand in tier-2 and tier-3 markets.
-INDUSINDBK,1800,XR,NTT,W,0,0,120,H,BANKS,1,,-21,,XR/X5K,Private bank with improving asset quality and growing retail focus.
 INDUSINDBK,1800,XR,NTT,W,0,0,120,H,BANKS,1,,-21,,XR/X5K,Private bank with improving asset quality and growing retail focus.
 INDUSTOWER,,,,,1,1,157,L,TELECOM,,UP,,,X5K,Telecom tower company with challenges from industry consolidation.
 INFIBEAM,19.45,AR,ATH,W,0,0,272,L,IT,,UP,,,AR,E-commerce and digital payments company with execution risks and limited moat.
