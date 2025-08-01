@@ -49,7 +49,7 @@ BHARTIARTL,,,ATH,D,1,1,6,H,TELECOM,,SC,,,X5K,Leading telecom operator with impro
 BIOCON,397,XY24,NTT,,0,0,195,M,PHARMA,,NC,67,,XY24,Leadership in biosimilars and strong R&D focus but execution risks exist in scaling globally.
 BIRLAMONEY,141,AR,ATH,W,0,0,273,L,FINANCE,,NC,365,,AR,Small player in financial services with limited scale and growth visibility.
 BLUESTARCO,800,X40N,ATH,W,0,0,119,H,AC,1,SC,,,X40N,Market leader in air conditioning with consistent growth and strong operational performance.
-BLUSPRING,,XY24,ATH,D,1,1,261,L,MISC,1,NC,,,XY24,
+BLUSPRING,,XY24,ATH,D,1,1,261,L,MISC,,NC,,,XY24,
 BOROLTD,462,XY24,ATH,W,0,0,274,L,GLASS,,DC,142,,XY24,Strong legacy brand in glassware but faces stiff competition and lacks scalability.
 BOSCHLTD,,X40N,ATH,D,0,0,112,H,AUTO,,DC,,,X40N,Pioneer in auto components with strong focus on innovation and high-quality management.
 BPCL,,XR,ATH,D,1,0,173,L,OIL,,DC,,,XR/X5K,Government-owned oil company facing pricing and regulatory challenges despite scale advantages.
@@ -76,7 +76,7 @@ DABUR,735,XY24,BTT,D,1,0,100,H,FMCG,1,NC,1,,XY24/X40,Leader in FMCG with a stron
 DCBBANK,168,AR,ATH,W,0,0,229,M,BANKS,,NC,,,AR,Niche private bank with strong asset quality but limited scalability.
 DEEPAKNTR,,AR,ATH,W,0,0,139,H,CHEMICALS,,SC,,,AR,Leading specialty chemical manufacturer with strong execution and high-growth potential.
 DEN,75,AR,NTT,W,0,0,238,M,ENTERTAINMENT,1,DC,-21,,AR,Struggles with profitability and scalability in a highly competitive cable TV business.
-DIGITIDE,,XY24,ATH,D,,1,198,M,IT,1,NC,,,XY24,
+DIGITIDE,,XY24,ATH,D,,1,198,M,IT,,NC,,,XY24,
 DIVISLAB,5029,AR,ATH,D,0,0,45,H,PHARMA,,NC,,,AR,Global leader in APIs with strong R&D focus and ethical management.
 DIXON,,X40N,ATH,W,0,0,85,H,IT,1,NC,,,X40N,Leading contract manufacturer in India with robust growth and operational efficiency.
 DLF,885,AR,NTT,D,0,0,20,H,REALTY,,DC,,,AR,Real estate major with cyclical business and governance challenges in the past.
@@ -87,7 +87,7 @@ EASEMYTRIP,26.4,XY24,NTT,W,0,0,200,M,TRAVEL,1,DC,-91,,XY24,Asset-light online tr
 EICHERMOT,3855,X40N,ATH,D,1,1,16,H,AUTO,,DC,109,,X40N,Dominant player in premium motorcycles with strong brand and consistent growth.
 EIHOTEL,,AR,ATH,D,1,1,126,H,HOTELS,,DC,,,AR,
 EMAMILTD,815,XR,BTT,W,0,0,201,M,FMCG,,NC,118,,XR,FMCG player with niche ayurvedic products but faces intense competition in personal care.
-ENRIN,,AR,ATH,D,1,1,2,H,ELECTRICAL,1,SC,,,AR,
+ENRIN,,AR,ATH,D,1,1,2,H,ELECTRICAL,,SC,,,AR,
 EQUITASBNK,,OX40N,ATH,W,0,0,242,M,BANKS,,NC,,,OX40N,Well-managed small finance bank with a focus on financial inclusion but limited scalability.
 ERIS,,X40N,ATH,W,0,0,246,M,PHARMA,,NC,,,X40N,Focused on branded formulations with strong market presence in chronic therapies.
 EXIDEIND,,XR,ATH,D,0,0,190,M,AUTO,,DC,,,XR,Leading battery manufacturer but facing competition from new-age energy storage solutions.
