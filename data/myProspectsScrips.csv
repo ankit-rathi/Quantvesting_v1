@@ -116,7 +116,7 @@ HDFCAMC,3600,X40,ATH,D,1,1,31,H,FINANCE,,NC,136,,X40,Market leader in asset mana
 HDFCBANK,2170,X40,BTT,D,1,1,39,H,BANKS,,NC,4,,X40/X5K,Best-in-class private bank with robust growth excellent governance and strong asset quality.
 HDFCLIFE,897,X40,BTT,D,1,0,43,H,INSURANCE,,NC,16,,X40,Leading life insurer with innovative product offerings and strong distribution capabilities.
 HEROMOTOCO,,AR,ATH,D,0,0,93,H,AUTO,1,DC,,,AR,Market leader in two-wheelers but faces growth headwinds in the EV transition.
-HINDALCO,,X5K,ATH,,0,0,9,H,METALS,1,DC,,,X5K,Leading aluminum and copper producer with strong operational performance and global footprint.
+HINDALCO,,X5K,ATH,,0,0,9,H,METALS,,DC,,,X5K,Leading aluminum and copper producer with strong operational performance and global footprint.
 HINDPETRO,410,XR,BTT,D,1,0,257,L,REFINERIES,,SC,1817,,XR/X5K,PSU with limited pricing power due to government regulations and volatile margins.
 HINDUNILVR,2723,XY25,NTT,D,1,1,24,H,FMCG,1,NC,-3,,XY25/X5K/X40,FMCG leader with strong brand portfolio consistent growth and ethical management.
 HINDZINC,,X5K,ATH,D,,,52,M,METALS,1,DC,,,X5K,
