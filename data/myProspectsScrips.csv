@@ -78,9 +78,9 @@ DEEPAKNTR,,AR,ATH,W,0,0,147,H,CHEMICALS,,SC,,,AR,Leading specialty chemical manu
 DEN,75,AR,NTT,W,0,0,237,M,ENTERTAINMENT,1,DC,-21,,AR,Struggles with profitability and scalability in a highly competitive cable TV business.
 DIGITIDE,,XY24,ATH,D,,1,195,M,IT,,NC,,,XY24,
 DIVISLAB,5029,AR,ATH,D,0,0,40,H,PHARMA,,NC,,,AR,Global leader in APIs with strong R&D focus and ethical management.
-DIXON,,X40N,ATH,W,0,0,81,H,IT,1,NC,,,X40N,Leading contract manufacturer in India with robust growth and operational efficiency.
+DIXON,,X40N,ATH,W,0,0,81,H,IT,,NC,,,X40N,Leading contract manufacturer in India with robust growth and operational efficiency.
 DLF,885,AR,NTT,D,0,0,12,H,REALTY,,DC,,,AR,Real estate major with cyclical business and governance challenges in the past.
-DMART,5201,X40N,NTT,W,0,0,38,H,FMCG,1,NC,33,,X40N,Industry leader in retail with cost-efficient operations and excellent execution.
+DMART,5201,X40N,NTT,W,0,0,38,H,FMCG,,NC,33,,X40N,Industry leader in retail with cost-efficient operations and excellent execution.
 DREAMFOLKS,,EXP50,ATH,W,0,0,276,M,MISC,,NC,,,EXP50,Emerging leader in lounge access services scalability and execution risks remain.
 DRREDDY,,XR,ATH,D,1,1,,H,PHARMA,,NC,,,XR/X5K,Trusted pharma brand with strong global presence but faces price erosion in key markets.
 EASEMYTRIP,26.4,XY24,NTT,W,0,0,197,M,TRAVEL,1,DC,-91,,XY24,Asset-light online travel agency with scalability potential but limited competitive moat.
@@ -115,7 +115,7 @@ HCLTECH,2006,X40,ATH,D,1,1,8,H,IT,1,NC,99,,X40/X5K,Leading IT services company w
 HDFCAMC,3600,X40,ATH,D,1,1,31,H,FINANCE,,NC,136,,X40,Market leader in asset management with strong distribution network and consistent profitability.
 HDFCBANK,2170,X40,BTT,D,1,1,39,H,BANKS,,NC,4,,X40/X5K,Best-in-class private bank with robust growth excellent governance and strong asset quality.
 HDFCLIFE,897,X40,BTT,D,1,0,43,H,INSURANCE,,NC,16,,X40,Leading life insurer with innovative product offerings and strong distribution capabilities.
-HEROMOTOCO,,AR,ATH,D,0,0,93,H,AUTO,1,DC,,,AR,Market leader in two-wheelers but faces growth headwinds in the EV transition.
+HEROMOTOCO,,AR,ATH,D,0,0,93,H,AUTO,,DC,,,AR,Market leader in two-wheelers but faces growth headwinds in the EV transition.
 HINDALCO,,X5K,ATH,,0,0,9,H,METALS,,DC,,,X5K,Leading aluminum and copper producer with strong operational performance and global footprint.
 HINDPETRO,410,XR,BTT,D,1,0,257,L,REFINERIES,,SC,1817,,XR/X5K,PSU with limited pricing power due to government regulations and volatile margins.
 HINDUNILVR,2723,XY25,NTT,D,1,1,24,H,FMCG,1,NC,-3,,XY25/X5K/X40,FMCG leader with strong brand portfolio consistent growth and ethical management.
