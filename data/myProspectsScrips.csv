@@ -21,7 +21,7 @@ APLLTD,,XR,ATH,W,0,0,243,M,PHARMA,,NC,,,XR,Trusted pharma company with a growing
 APOLLOHOSP,8285,X40N,BTT,D,0,0,22,H,HEALTHCARE,1,NC,,,X40N,Premier hospital chain with strong management and leadership in healthcare services.
 ARE&M,1066,X200,ATH,W,0,0,262,L,AUTO,,DC,85,,X200,Industrial engineering firm with moderate management and growth prospects.
 ARVINDFASN,,XR,ATH,D,0,0,272,L,MISC,,NC,,,XR,Retail-focused business with a growing portfolio but faces margin and competition pressures.
-ASIANPAINT,4250,X40,BTT,D,1,0,27,H,PAINTS,1,SC,-18,,X40,Market leader in decorative paints with exceptional brand recognition and execution.
+ASIANPAINT,4250,X40,ATH,D,1,0,27,H,PAINTS,1,SC,-18,,X40,Market leader in decorative paints with exceptional brand recognition and execution.
 ASIANTILES,137,XR,NTT,W,0,0,269,L,CERAMICS,1,SC,-16,,XR,Tile manufacturer with consistent performance but limited scalability compared to peers.
 ASTERDM,,X5K,ATH,D,0,0,249,M,HEALTHCARE,,NC,,,X5K,
 ASTRAL,,AR,ATH,D,0,0,100,H,PLASTICS,,SC,,,AR,Well-managed high-quality business with strong future growth prospects making it an excellent investment choice in the small-cap space.
@@ -128,7 +128,7 @@ ICICIBANK,,X40,ATH,D,1,1,21,H,BANKS,,NC,,,X40/X5K,Best-in-class private bank wit
 ICICIGI,1893,X40,ATH,D,1,1,91,H,INSURANCE,1,NC,52,,X40,Leading general insurer with strong distribution but faces pricing pressures in the industry.
 ICICIPRULI,835,X40,ATH,D,1,0,107,H,INSURANCE,1,NC,103,,X40,Life insurer with innovative products and consistent market share growth.
 IDBI,,X5K,ATH,D,0,0,177,M,BANKS,,NC,,,X5K,
-IEX,219,XR,NTT,W,0,0,115,H,MISC,,NC,20,,XR,Monopoly in power exchange but regulatory risks exist.
+IEX,219,XR,NTT,W,0,0,115,H,MISC,1,NC,20,,XR,Monopoly in power exchange but regulatory risks exist.
 IGL,707,AR,BTT,W,0,0,214,M,GAS,,SC,,,AR,Dominant player in city gas distribution with steady growth and high entry barriers.
 INDHOTEL,,X40N,ATH,,0,0,56,M,HOTELS,,DC,,,X40N,Strong player in the hospitality sector with a focus on premium and luxury segments offering consistent growth potential in India's growing tourism industry.
 INDIAMART,,AR,ATH,D,0,0,119,H,MISC,1,NC,,,AR,
@@ -259,7 +259,7 @@ TATAELXSI,9161,OX40N,NTT,W,1,1,98,H,IT,1,NC,-10,,OX40N,Niche IT services player 
 TATAMOTORS,1065,XY24,NTT,D,1,1,54,M,AUTO,1,DC,-49,,XY24/X5K/X40N,Improving fundamentals driven by EV focus but cyclical nature of auto industry remains.
 TATAPOWER,,XR,ATH,,0,0,68,M,ELECTRICAL,,SC,,,XR,Strong push in renewable energy but faces regulatory and operational challenges.
 TATASTEEL,,,,,0,0,77,M,METALS,,DC,,,,Global steel leader with improving cost efficiencies but cyclical exposure.
-TCS,4998,X40,BTT,D,1,1,1,H,IT,1,NC,8,,X40/X5K,IT services giant with unparalleled scale execution capabilities and consistent growth.
+TCS,4998,X40,ATH,D,1,1,1,H,IT,1,NC,8,,X40/X5K,IT services giant with unparalleled scale execution capabilities and consistent growth.
 TEAMLEASE,3487,X40N,NTT,W,0,0,212,M,MISC,,NC,2,,X40N,Market leader in staffing solutions but operates on thin margins.
 TECHM,,,,,0,0,61,M,IT,,NC,,,,Diversified IT services player but lags peers in high-margin digital transformation.
 TIPSINDLTD,,,,,0,0,,M,ENTERTAINMENT,,DC,,,,Niche player in music content with rising digital monetization opportunities.
