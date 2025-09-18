@@ -48,7 +48,7 @@ BERGEPAINT,680,XY24,NTT,D,1,1,106,H,PAINTS,1,SC,-14,,XY24/X40,Strong brand with 
 BHARTIARTL,,,ATH,D,1,1,6,H,TELECOM,,SC,,,X5K,Leading telecom operator with improved profitability and diversification into digital services.
 BIOCON,397,XY24,NTT,,0,0,194,M,PHARMA,,NC,67,,XY24,Leadership in biosimilars and strong R&D focus but execution risks exist in scaling globally.
 BIRLAMONEY,141,AR,ATH,W,0,0,274,L,FINANCE,,NC,365,,AR,Small player in financial services with limited scale and growth visibility.
-BLUESTARCO,800,X40N,ATH,W,0,0,89,H,AC,1,SC,,,X40N,Market leader in air conditioning with consistent growth and strong operational performance.
+BLUESTARCO,2080,X40N,NTT,W,0,0,89,H,AC,1,SC,,,X40N,Market leader in air conditioning with consistent growth and strong operational performance.
 BLUSPRING,,XY24,ATH,D,1,1,260,L,MISC,,NC,,,XY24,
 BOROLTD,462,XY24,ATH,W,0,0,275,L,GLASS,,DC,142,,XY24,Strong legacy brand in glassware but faces stiff competition and lacks scalability.
 BOSCHLTD,,X40N,ATH,D,0,0,42,H,AUTO,,DC,,,X40N,Pioneer in auto components with strong focus on innovation and high-quality management.
@@ -285,7 +285,7 @@ VEEDOL,,XR,ATH,D,0,0,289,L,CHEMICALS,,SC,,,XR,Mid-tier lubricant player with lim
 VGUARD,,XR,ATH,D,0,0,222,M,ELECTRICAL,,SC,,,XR,Consumer appliances player with consistent growth but rising input costs.
 VINATIORGA,1882,OX40N,ATH,W,1,1,127,H,CHEMICALS,,SC,,,OX40N,Specialty chemical leader with high margins and export focus.
 VIPIND,489,OX40N,NTT,W,1,0,250,M,MISC,,NC,-47,,OX40N,Market leader in luggage with consistent growth and brand equity.
-VOLTAS,,XY25,ATH,,0,0,99,H,AC,1,SC,,,XY25/X40/AR,Market leader in air conditioning and cooling products with robust brand equity.
+VOLTAS,1530,XY25,NTT,,0,0,99,H,AC,1,SC,,,XY25/X40/AR,Market leader in air conditioning and cooling products with robust brand equity.
 WESTLIFE,,AR,ATH,W,0,0,242,M,RESTAURANTS,,DC,,,AR,McDonald's franchisee in India with strong growth but operates on thin margins.
 WHIRLPOOL,2270,XR,NTT,D,0,0,223,M,DURABLES,1,DC,34,SD: 2539,XR/OX40,Consumer appliances leader with premium positioning but rising competition.
 WIPRO,420,XR,NTT,W,1,1,53,M,IT,1,NC,33,,XR/X5K,IT services major but lags peers in growth and margins.
