@@ -18,7 +18,7 @@ AMBUJACEM,733,XY24,BTT,W,0,0,75,M,CEMENT,,DC,38,,XY24/X5K,Among the top cement p
 ANGELONE,3033,X40N,NTT,D,1,1,157,H,FINANCE,1,NC,77,VB: ATH by end of 2024 SD: 3444,X40N,Leading retail stockbroker with strong digital capabilities but competitive industry dynamics.
 APEX,314,AR,ATH,W,0,0,271,L,MISC,,NC,-9,,AR,Emerging pharma company with growth potential but lacks a significant competitive edge.
 APLLTD,,XR,ATH,W,0,0,243,M,PHARMA,,NC,,,XR,Trusted pharma company with a growing domestic and international market presence.
-APOLLOHOSP,8285,X40N,BTT,D,0,0,22,H,HEALTHCARE,,NC,,,X40N,Premier hospital chain with strong management and leadership in healthcare services.
+APOLLOHOSP,8285,X40N,ATH,D,0,0,22,H,HEALTHCARE,,NC,,,X40N,Premier hospital chain with strong management and leadership in healthcare services.
 ARE&M,1066,X200,ATH,W,0,0,262,L,AUTO,,DC,85,,X200,Industrial engineering firm with moderate management and growth prospects.
 ARVINDFASN,,XR,ATH,D,0,0,272,L,MISC,,NC,,,XR,Retail-focused business with a growing portfolio but faces margin and competition pressures.
 ASIANPAINT,4250,X40,ATH,D,1,0,27,H,PAINTS,1,SC,-18,,X40,Market leader in decorative paints with exceptional brand recognition and execution.
@@ -34,7 +34,7 @@ AWL,485,XY24,NTT,W,0,0,116,H,FMCG,1,NC,-36,SD: 488,XY24/X40N,Leading edible oil 
 AXISBANK,,X40,ATH,D,1,1,17,H,BANKS,,NC,,,X40/X5K,Improved governance under new leadership competitive private sector bank with robust growth.
 BAJAJ-AUTO,,X40,ATH,D,0,0,20,H,AUTO,,DC,,,X40/X5K,Market leader in two-wheelers with strong export presence focused capital allocation.
 BAJAJFINSV,2758,X40,BTT,D,1,1,35,H,FINANCE,,NC,11,,X40/X5K,Exceptional management with diversified financial services portfolio proven execution.
-BAJAJHFL,152,X40N,BTT,D,0,0,90,H,FINANCE,1,NC,,,X40N,
+BAJAJHFL,152,X40N,ATH,D,0,0,90,H,FINANCE,1,NC,,,X40N,
 BAJAJHIND,46,XR,ATH,W,0,0,273,L,SUGAR,,DC,431,,XR,Cyclical sugar business with limited pricing power and weak governance history.
 BAJAJHLDNG,,X40,ATH,D,-1,0,51,H,FINANCE,,NC,,,X40/X5K,Strong holding company with stakes in high-performing Bajaj group entities.
 BAJFINANCE,1069,X40,BTT,D,1,1,32,H,FINANCE,,NC,19,,X40/X5K,Exemplary management and business model with industry-leading ROE and growth.
@@ -65,7 +65,7 @@ CDSL,1985,X40N,ATH,W,0,0,146,H,MISC,,NC,271,,X40N,Dominant player in depository 
 CENTRALBK,,XR,ATH,W,0,0,259,L,BANKS,,NC,,,XR,Struggling PSU bank with weak governance and a high proportion of stressed assets.
 CERA,9475,OX40N,NTT,W,1,1,149,H,CERAMICS,1,SC,-57,,OX40N,Leading player in sanitaryware with consistent growth strong brand and efficient management.
 CHOLAFIN,,AR,ATH,W,0,0,28,H,FINANCE,,NC,,,AR,Well-managed NBFC with a strong presence in vehicle and SME financing.
-CIPLA,1795,X40N,BTT,D,0,0,10,H,PHARMA,1,NC,,,X40N,Trusted pharma company with strong domestic and international presence well-diversified.
+CIPLA,1795,X40N,ATH,D,0,0,10,H,PHARMA,1,NC,,,X40N,Trusted pharma company with strong domestic and international presence well-diversified.
 CLEAN,2137,XR,NTT,W,0,0,123,H,CHEMICALS,,SC,0,,XR,Renewable energy player with solid potential but limited execution history.
 COALINDIA,,XY25,ATH,D,1,0,167,L,MINING,1,DC,,,XY25/X5K,Dominant coal producer but faces ESG concerns and regulatory headwinds.
 COFFEEDAY,80,XR,NTT,W,0,0,268,L,HOTELS,1,DC,,VB: this coffee will cost 300 soon SD: CWH 118,XR,Struggles with governance and financial issues despite a strong brand legacy.
@@ -113,7 +113,7 @@ HATHWAY,31.4,XR,NTT,W,0,0,161,H,ENTERTAINMENT,1,DC,-18,,XR,Cable and broadband p
 HAVELLS,,X40,ATH,D,1,1,92,H,ELECTRICAL,1,SC,,,X40,Industry leader in electrical consumer goods with consistent growth and strong brand equity.
 HCLTECH,2006,X40,ATH,D,1,1,8,H,IT,1,NC,99,,X40/X5K,Leading IT services company with robust global presence and diversified offerings.
 HDFCAMC,3600,X40,ATH,D,1,1,31,H,FINANCE,,NC,136,,X40,Market leader in asset management with strong distribution network and consistent profitability.
-HDFCBANK,2170,X40,BTT,D,1,1,39,H,BANKS,,NC,4,,X40/X5K,Best-in-class private bank with robust growth excellent governance and strong asset quality.
+HDFCBANK,1000,X40,ATH,D,1,1,39,H,BANKS,,NC,4,,X40/X5K,Best-in-class private bank with robust growth excellent governance and strong asset quality.
 HDFCLIFE,897,X40,BTT,D,1,0,43,H,INSURANCE,,NC,16,,X40,Leading life insurer with innovative product offerings and strong distribution capabilities.
 HEROMOTOCO,,AR,ATH,D,0,0,93,H,AUTO,,DC,,,AR,Market leader in two-wheelers but faces growth headwinds in the EV transition.
 HINDALCO,,X5K,ATH,,0,0,9,H,METALS,,DC,,,X5K,Leading aluminum and copper producer with strong operational performance and global footprint.
@@ -247,7 +247,7 @@ SPORTKING,948.65,AR,ATH,W,0,0,286,L,TEXTILES,,DC,-68,,AR,Niche textile player bu
 SRF,2787,XR,ATH,W,0,0,111,H,CHEMICALS,,SC,18,,XR,Diversified chemicals leader with strong innovation export focus and consistent growth.
 STARHEALTH,761,XY24,NTT,W,0,0,144,H,INSURANCE,1,NC,-19,,XY24,Leading health insurer with growing market share but faces intense competition.
 SUNPHARMA,,,ATH,,0,0,13,H,PHARMA,,NC,,,X5K,Largest Indian pharma company with robust portfolio and global presence.
-SUNTV,1092,OX40N,BTT,W,0,0,207,M,ENTERTAINMENT,,DC,13,,OX40N,Regional media leader but faces challenges from digital streaming platforms.
+SUNTV,1092,OX40N,ATH,W,0,0,207,M,ENTERTAINMENT,,DC,13,,OX40N,Regional media leader but faces challenges from digital streaming platforms.
 SURYODAY,240,XR,NTT,W,0,0,135,H,BANKS,1,NC,-41,VB: till ATH 311,XR,Small finance bank with limited scale and rising competition in financial inclusion.
 SUZLON,,,,,0,0,253,L,ELECTRICAL,,SC,,,,Pioneer in wind energy but historically burdened by high debt and execution challenges.
 SYMPHONY,1306,OX40N,NTT,W,1,1,196,M,DURABLES,1,DC,75,,OX40N,Market leader in air coolers but growth is seasonal and dependent on weather patterns.
