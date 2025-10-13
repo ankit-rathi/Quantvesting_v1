@@ -48,7 +48,7 @@ BERGEPAINT,680,XY24,NTT,D,1,1,106,X,PAINTS,1,SC,-14,,XY24/X40,Strong brand with 
 BHARTIARTL,,,ATH,D,1,1,6,H,TELECOM,,SC,,,X5K,Leading telecom operator with improved profitability and diversification into digital services.
 BIOCON,397,XY24,NTT,,0,0,194,M,PHARMA,,NC,67,,XY24,Leadership in biosimilars and strong R&D focus but execution risks exist in scaling globally.
 BIRLAMONEY,141,AR,ATH,W,0,0,274,L,FINANCE,,NC,365,,AR,Small player in financial services with limited scale and growth visibility.
-BLUESTARCO,2080,X40N,NTT,W,0,0,89,X,AC,1,SC,,,X40N,Market leader in air conditioning with consistent growth and strong operational performance.
+BLUESTARCO,2080,X40N,NTT,W,0,0,89,X,AC,,SC,,,X40N,Market leader in air conditioning with consistent growth and strong operational performance.
 BLUSPRING,,XY24,ATH,D,1,1,260,L,MISC,,NC,,,XY24,
 BOROLTD,462,XY24,ATH,W,0,0,275,L,GLASS,,DC,142,,XY24,Strong legacy brand in glassware but faces stiff competition and lacks scalability.
 BOSCHLTD,,X40N,ATH,D,0,0,42,X,AUTO,,DC,,,X40N,Pioneer in auto components with strong focus on innovation and high-quality management.
@@ -187,7 +187,7 @@ MRF,,X40N,ATH,W,0,0,113,X,TYRES,,DC,,,X40N,Premium tire manufacturer with strong
 MUTHOOTFIN,,XR,ATH,D,0,0,71,M,FINANCE,,NC,,,XR,Leading gold loan NBFC with consistent growth and risk mitigation but faces competition.
 NAM-INDIA,,X40,ATH,D,1,1,183,X,FINANCE,,NC,,,X40,Established asset management company with consistent AUM growth and digital focus.
 NATCOPHARM,,AR,ATH,D,1,1,120,H,PHARMA,,NC,,,AR,
-NATIONALUM,,MH,ATH,,0,0,79,H,METALS,1,DC,,,X5K/MH,PSU aluminum producer with cyclical earnings and low pricing power.
+NATIONALUM,,X5K,ATH,,0,0,79,H,METALS,,DC,,,X5K,PSU aluminum producer with cyclical earnings and low pricing power.
 NAUKRI,,,ATH,,0,0,87,H,IT,,NC,,,,Market leader in online recruitment with strong cash flows and new growth verticals.
 NEOGEN,2434,SR,BTT,W,0,0,283,M,CHEMICALS,,SC,36,SR:2434,SR,Specialty chemicals company with niche focus but relatively small scale.
 NESTLEIND,1377,XY25,NTT,D,0,0,11,X,FMCG,1,NC,,,XY25/X40,FMCG giant with strong brand portfolio consistent growth and ethical management.
@@ -212,13 +212,13 @@ POLYCAB,,OX40N,ATH,W,1,1,33,H,CABLES,,SC,,,OX40N,Market leader in cables and wir
 POWERGRID,,,,,0,0,62,M,POWER,,SC,,,X5K,Dominant player in power transmission with steady growth but PSU inefficiencies.
 PRAJIND,,AR,ATH,W,0,0,231,M,ENGINEERING,,DC,,,AR,Strong focus on biofuels and clean energy solutions with innovative product offerings.
 PVRINOX,,,,,0,0,225,M,ENTERTAINMENT,,DC,,,,Leading multiplex operator with strong brand but cyclical business tied to discretionary spending.
-QUESS,986,XY24,NTT,D,0,0,198,X,MISC,1,NC,-33,,XY24/X40N,Staffing and outsourcing firm with execution challenges in a fragmented market.
+QUESS,986,XY24,NTT,D,0,0,198,X,MISC,1,NC,-33,,XY24,Staffing and outsourcing firm with execution challenges in a fragmented market.
 RADICO,,X40N,ATH,W,1,1,191,X,MISC,,NC,,,X40N,Alcoholic beverage player with strong premiumization strategy and consistent growth.
 RAJESHEXPO,518,OX40N,NTT,W,0,0,267,L,JEWELLERY,1,DC,-49,,OX40N,Gold trading company with low margins and limited value addition.
 RAJOOENG,,AR,ATH,W,0,0,114,H,MISC,1,NC,,,AR,
 RAYMOND,,X5K,ATH,D,0,0,204,M,REALTY,,DC,,,X5K,
 RBLBANK,388,XY24,NTT,W,0,0,251,M,BANKS,,NC,-48,,XY24,Small private bank with improving metrics but historical governance and asset quality issues.
-RECLTD,,X5K,ATH,D,,,55,M,FINANCE,,NC,,,X5K,
+RECLTD,446,XY25,NTT,D,,,55,M,FINANCE,1,NC,,,X5K/XY25,
 RELAXO,1176,X40N,NTT,W,1,0,136,X,FOOTWEAR,1,SC,-26,,X40N,Affordable footwear leader with consistent growth but rising input cost challenges.
 RELIANCE,1533,XY25,NTT,D,1,0,37,X,REFINERIES,1,SC,67,,XY25/X40/X5K,Diversified conglomerate with leading positions in telecom retail and petrochemicals.
 REPCOHOME,880,XY24,NTT,W,0,0,134,H,FINANCE,1,NC,-44,,XY24,Regional housing finance company with limited scale and rising competition.
