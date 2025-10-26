@@ -20,7 +20,7 @@ The foundational principles discussed in this session emphasize that success in 
   Instead, focus on whether the stock reached your planned target.
 
 - **Wisdom Over Intelligence:**  
-  Stock market success requires **wisdom (विजडम)**, not just **intelligence (इंटेलिजेंस)**.  
+  Stock market success requires **wisdom**, not just **intelligence**.  
   Even highly intelligent people (like Einstein) have lost money in the markets.  
   Degrees can guarantee a salary, but not financial freedom.
 
