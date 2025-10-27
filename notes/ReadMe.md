@@ -10,7 +10,7 @@ Here are my notes on Stock Market & Quantvesting.
 
 Why should you try do-it-yourself (DIY) investing?
 
-You may be hearing quite often why should you simply SIP in MFs and leave your corpus in the hands of professionals, but as an DIY investor, here are my counter-points:
+You may be hearing quite often why should you simply SIP in MFs and leave your corpus in the hands of professionals, but as a DIY investor, here are my counter-points:
 - Better Transparency & Control
 - Lower Costs, Higher Compounding
 - Freedom from Herd Behavior
