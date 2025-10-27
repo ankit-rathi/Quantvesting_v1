@@ -154,7 +154,7 @@ JIOFIN,387,XY24,BTT,W,0,0,48,X,FINANCE,1,NC,26,,XY24/X40N,New financial services
 JMFINANCIL,,XR,ATH,W,0,0,241,M,FINANCE,,NC,90,,XR,Diversified financial services player with limited competitive advantages.
 JPPOWER,26.2,XY24,NTT,W,0,0,270,L,POWER,,SC,48,,XY24,Struggling power producer with high debt and operational inefficiencies.
 JSWHL,7487,XY24,BTT,D,0,0,164,H,FINANCE,,NC,,,XY24,Niche holding company with limited direct business opportunities.
-JSWINFRA,,X40N,ATH,D,0,0,178,X,REALTY,,DC,,,X40N,
+JSWINFRA,342,X40N,NTT,D,0,0,178,X,REALTY,1,DC,,,X40N,
 JSWSTEEL,,AR,ATH,D,0,0,47,H,STEEL,,DC,802,,AR,Leading steel manufacturer with strong domestic and global presence but cyclical earnings.
 JUBLFOOD,850,AR,NTT,W,0,0,181,M,RESTAURANTS,,DC,22,,AR,Dominant QSR player with strong brand and aggressive expansion but rising input costs.
 JYOTHYLAB,,XR,ATH,D,0,0,206,M,FMCG,,NC,,,XR,Niche FMCG player with a strong regional presence but limited scale compared to peers.
