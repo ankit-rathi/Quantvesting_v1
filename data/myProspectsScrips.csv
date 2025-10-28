@@ -270,7 +270,7 @@ TRIDENT,48,XR,NTT,W,0,0,224,M,TEXTILES,1,DC,-16,,XR,Integrated textile player wi
 TTKPRESTIG,770,OX40N,NTT,W,0,0,245,M,DURABLES,1,DC,1,,OX40N,Kitchen appliance leader with strong brand presence and consistent growth.
 TV18BRDCST,,XR,ATH,D,0,0,,L,ENTERTAINMENT,,DC,,,XR,Media player with fluctuating revenues and limited pricing power.
 UBL,,X40N,ATH,D,0,0,186,X,FMCG,,NC,,,X40N,
-UJJIVANSFB,60,OX40N,NTT,W,1,0,163,H,BANKS,1,NC,-27,,OX40N,Similar to UJJIVAN with challenges in scaling up and sustaining profitability.
+UJJIVANSFB,60,OX40N,NTT,W,1,0,163,H,BANKS,,NC,-27,,OX40N,Similar to UJJIVAN with challenges in scaling up and sustaining profitability.
 ULTRACEMCO,,X40N,ATH,,1,0,45,X,CEMENT,,DC,,,X40N/X5K,Leading cement player with excellent cost efficiencies and market dominance.
 UNIONBANK,163,XY24,NTT,W,1,1,66,M,BANKS,1,NC,-39,,XY24/X5K,PSU bank with weak asset quality but improving metrics.
 UNITDSPR,1644,X40N,NTT,W,0,0,86,X,BREWERIES,1,DC,,,X40N,Market leader in premium alcoholic beverages with strong brand portfolio.
