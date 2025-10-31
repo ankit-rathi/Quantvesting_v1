@@ -41,7 +41,7 @@ BAJFINANCE,1069,X40,BTT,D,1,1,32,X,FINANCE,,NC,19,,X40/X5K,Exemplary management 
 BALKRISIND,,XR,ATH,D,0,0,103,H,TYRES,,DC,,,XR,Niche player in off-highway tires with strong global presence and efficient operations.
 BANDHANBNK,400,XY24,NTT,W,0,0,151,H,BANKS,1,NC,-29,,XY24,Strong microfinance focus but governance and asset quality concerns remain.
 BANKBARODA,283,XR,NTT,W,1,1,69,M,BANKS,,NC,11,,XR/X5K,Improved operations post-merger but still faces challenges in governance and NPAs.
-BANKINDIA,149,XR,NTT,W,1,1,88,H,BANKS,1,NC,-12,SD: till 190,XR/X5K,Public sector bank with persistent challenges in credit discipline and operational efficiency.
+BANKINDIA,149,XR,NTT,W,1,1,88,H,BANKS,,NC,-12,SD: till 190,XR/X5K,Public sector bank with persistent challenges in credit discipline and operational efficiency.
 BATAINDIA,2096,X40,NTT,D,0,0,219,X,FOOTWEAR,1,SC,-8,SD: till 1686,X40,Trusted footwear brand with strong market presence but faces competition from new entrants.
 BAYERCROP,6805,OX40N,NTT,D,0,0,160,H,CHEMICALS,,SC,9,,OX40N,Global agrochemical leader with strong R&D focus business quality impacted by cyclicality.
 BERGEPAINT,680,XY24,NTT,D,1,1,106,X,PAINTS,1,SC,-14,,XY24/X40,Strong brand with consistent growth in decorative paints well-managed and capital-efficient.
@@ -57,7 +57,7 @@ BRITANNIA,5201,XY25,ATH,D,0,0,26,H,FMCG,,NC,239,,XY25/AR,Market leader in biscui
 BSE,,X40N,ATH,D,0,0,67,X,MISC,,NC,,,X40N,
 BSOFT,,XR,ATH,D,0,0,131,H,IT,1,NC,-28,,XR,IT services company with strong growth potential in digital transformation projects.
 CAMPUS,393,XY24,NTT,W,0,0,210,M,FOOTWEAR,1,SC,-16,,XY24,Growing player in affordable footwear but lacks a strong competitive moat.
-CAMS,4450,X40N,ATH,W,0,0,122,X,MISC,1,NC,261,,X40N,Monopoly-like position in mutual fund RTA services well-run with strong cash flow generation.
+CAMS,4762,X40N,NTT,W,0,0,122,X,MISC,1,NC,261,,X40N,Monopoly-like position in mutual fund RTA services well-run with strong cash flow generation.
 CANBK,,,,,1,1,168,L,BANKS,,NC,,,X5K,PSU bank showing some improvement but still faces governance and credit quality issues.
 CAPLIPOINT,,OX40N,ATH,W,1,1,140,H,PHARMA,,NC,,,OX40N,Niche pharma player with a focus on generics and injectables consistent operational performance.
 CASTROLIND,172,XR,ATH,W,0,0,218,M,CHEMICALS,,SC,2824,,XR,Strong brand in lubricants but faces headwinds from EV adoption and slowing demand.
