@@ -119,7 +119,7 @@ HEROMOTOCO,,AR,ATH,D,0,0,93,H,AUTO,,DC,,,AR,Market leader in two-wheelers but fa
 HINDALCO,,X5K,ATH,,0,0,9,H,METALS,,DC,,,X5K,Leading aluminum and copper producer with strong operational performance and global footprint.
 HINDPETRO,410,XR,ATH,D,1,0,257,L,REFINERIES,,SC,1817,,XR/X5K,PSU with limited pricing power due to government regulations and volatile margins.
 HINDUNILVR,2922,XY25,NTT,D,1,1,24,X,FMCG,1,NC,-3,,XY25/X5K/X40,FMCG leader with strong brand portfolio consistent growth and ethical management.
-HINDZINC,,X5K,ATH,D,,,52,M,METALS,1,DC,,,X5K,
+HINDZINC,,X5K,ATH,D,,,52,M,METALS,,DC,,,X5K,
 HONAUT,51640,X40N,ATH,D,0,0,143,X,ELECTRICAL,1,SC,97,,X40N,Trusted automation and safety solution provider with niche market leadership.
 HSCL,,XR,ATH,W,0,0,265,L,CHEMICALS,,SC,,,XR,Construction-focused PSU with cyclical business and limited scalability.
 HYUNDAI,,X40N,ATH,D,,,76,X,AUTO,,DC,,,X40N/X5K,
@@ -224,7 +224,7 @@ RELIANCE,1533,XY25,NTT,D,1,0,37,X,REFINERIES,,SC,67,,XY25/X40/X5K,Diversified co
 REPCOHOME,880,XY24,NTT,W,0,0,134,H,FINANCE,1,NC,-44,,XY24,Regional housing finance company with limited scale and rising competition.
 ROSSARI,965,XY24,NTT,W,0,0,216,M,CHEMICALS,,SC,32,,XY24,Specialty chemicals player with innovative products but faces scalability challenges.
 ROUTE,2390,SR,ATH,W,0,0,118,H,IT,1,NC,-38,SD: till 2390,SR,Cloud communication provider with strong growth prospects but intense competition.
-SAIL,228,XY24,BTT,W,0,0,192,M,STEEL,1,DC,-18,,XY24,PSU steel producer with cyclical earnings and governance challenges.
+SAIL,228,XY24,BTT,W,0,0,192,M,STEEL,,DC,-18,,XY24,PSU steel producer with cyclical earnings and governance challenges.
 SAMMAANCAP,326,XY25,NTT,W,0,0,208,M,FINANCE,1,NC,,SD: 320,XY25/XR,Small NBFC with limited scale and high concentration risks.
 SANOFI,7552,X40,NTT,D,0,0,128,X,PHARMA,,NC,,,X40,Global pharma major with strong brand portfolio and ethical management.
 SATIN,274,XY24,NTT,D,0,0,126,H,FINANCE,1,NC,-58,,XY24,Microfinance player with execution and asset quality concerns.
