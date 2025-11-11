@@ -99,7 +99,7 @@ FOSECOIND,,EXP50,ATH,W,0,0,277,M,CHEMICALS,,SC,,,EXP50,Specialty chemical compan
 GAIL,,,,,1,1,169,L,GAS,,SC,,,X5K,Largest natural gas company in India government ownership limits operational flexibility.
 GEOJITFSL,,XR,ATH,D,0,0,278,L,FINANCE,,NC,,,XR,Regional player in financial services with limited competitive advantage.
 GICRE,583,XY24,BTT,W,0,0,85,H,INSURANCE,,NC,109,,XY24/X5K,State-owned reinsurer with pricing challenges and lack of operational agility.
-GILLETTE,8980,X40,ATH,D,0,0,105,X,FMCG,,NC,64,,X40,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
+GILLETTE,8980,X40,ATH,D,0,0,105,X,FMCG,1,NC,64,,X40,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
 GLAND,3442,XR,NTT,W,0,0,159,H,PHARMA,,NC,17,SD: 2612,XR,Focused on injectables with strong global presence but faces execution challenges.
 GLAXO,3182,X40,ATH,D,1,0,96,X,PHARMA,,NC,,,X40,Strong brand and diversified pharma portfolio but slower growth compared to peers.
 GODREJCP,,X40N,ATH,,1,1,74,X,FMCG,,NC,,,X40N,Trusted FMCG player with strong presence in home and personal care but faces tough competition.
@@ -220,7 +220,7 @@ RAYMOND,,X5K,ATH,D,0,0,204,M,REALTY,,DC,,,X5K,
 RBLBANK,388,XY24,NTT,W,0,0,251,M,BANKS,,NC,-48,,XY24,Small private bank with improving metrics but historical governance and asset quality issues.
 RECLTD,446,XY25,NTT,D,,,55,M,FINANCE,1,NC,,,X5K/XY25,
 RELAXO,1176,X40N,NTT,W,1,0,136,X,FOOTWEAR,1,SC,-26,,X40N,Affordable footwear leader with consistent growth but rising input cost challenges.
-RELIANCE,1533,XY25,NTT,D,1,0,37,X,REFINERIES,1,SC,67,,XY25/X40/X5K,Diversified conglomerate with leading positions in telecom retail and petrochemicals.
+RELIANCE,1533,XY25,NTT,D,1,0,37,X,REFINERIES,,SC,67,,XY25/X40/X5K,Diversified conglomerate with leading positions in telecom retail and petrochemicals.
 REPCOHOME,880,XY24,NTT,W,0,0,134,H,FINANCE,1,NC,-44,,XY24,Regional housing finance company with limited scale and rising competition.
 ROSSARI,965,XY24,NTT,W,0,0,216,M,CHEMICALS,,SC,32,,XY24,Specialty chemicals player with innovative products but faces scalability challenges.
 ROUTE,2390,SR,ATH,W,0,0,118,H,IT,1,NC,-38,SD: till 2390,SR,Cloud communication provider with strong growth prospects but intense competition.
@@ -272,7 +272,7 @@ TV18BRDCST,,XR,ATH,D,0,0,,L,ENTERTAINMENT,,DC,,,XR,Media player with fluctuating
 UBL,,X40N,ATH,D,0,0,186,X,FMCG,,NC,,,X40N,
 UJJIVANSFB,60,OX40N,NTT,W,1,0,163,H,BANKS,,NC,-27,,OX40N,Similar to UJJIVAN with challenges in scaling up and sustaining profitability.
 ULTRACEMCO,,X40N,ATH,,1,0,45,X,CEMENT,,DC,,,X40N/X5K,Leading cement player with excellent cost efficiencies and market dominance.
-UNIONBANK,163,XY24,NTT,W,1,1,66,M,BANKS,1,NC,-39,,XY24/X5K,PSU bank with weak asset quality but improving metrics.
+UNIONBANK,163,XY24,NTT,W,1,1,66,M,BANKS,,NC,-39,,XY24/X5K,PSU bank with weak asset quality but improving metrics.
 UNITDSPR,1644,X40N,NTT,W,0,0,86,X,BREWERIES,1,DC,,,X40N,Market leader in premium alcoholic beverages with strong brand portfolio.
 UPL,737,AR,NTT,W,0,0,193,M,CHEMICALS,,SC,,,AR,Global agrochemical player with robust portfolio but faces debt-related concerns.
 UTIAMC,1207,XY24,ATH,W,0,0,247,M,FINANCE,,NC,96,,XY24,Established mutual fund player but lags private peers in growth.
