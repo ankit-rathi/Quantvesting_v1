@@ -256,7 +256,6 @@ TASTYBITE,,XR,ATH,D,0,0,287,M,FMCG,,NC,27,,XR,Niche packaged foods player with e
 TATACOMM,,AR,,W,0,0,176,M,TELECOM,,SC,,,AR,Global telecom player with improving margins but capital-intensive business.
 TATACONSUM,,AR,ATH,,0,0,44,H,FMCG,,NC,51,,AR,Diversified FMCG giant with strong brands and consistent premiumization strategy.
 TATAELXSI,9161,OX40N,NTT,W,1,1,98,H,IT,1,NC,-10,,OX40N,Niche IT services player in design and automotive tech with excellent growth prospects.
-TATAMOTORS,1065,XY24,NTT,D,1,1,54,X,AUTO,1,DC,-49,,XY24/X5K/X40N,Improving fundamentals driven by EV focus but cyclical nature of auto industry remains.
 TATAPOWER,,XR,ATH,,0,0,68,M,ELECTRICAL,,SC,,,XR,Strong push in renewable energy but faces regulatory and operational challenges.
 TATASTEEL,,,,,0,0,77,M,METALS,,DC,,,,Global steel leader with improving cost efficiencies but cyclical exposure.
 TCS,4998,X40,ATH,D,1,1,1,X,IT,1,NC,8,,X40/X5K,IT services giant with unparalleled scale execution capabilities and consistent growth.
@@ -265,6 +264,7 @@ TECHM,,,,,0,0,61,M,IT,,NC,,,,Diversified IT services player but lags peers in hi
 TIPSINDLTD,,,,,0,0,,M,ENTERTAINMENT,,DC,,,,Niche player in music content with rising digital monetization opportunities.
 TITAGARH,1548,XY24,NTT,D,0,0,158,H,ENGINEERING,1,DC,-40,,XY24,Rail and infrastructure player benefiting from government capex but cyclical demand.
 TITAN,4713,X40,ATH,D,1,1,18,X,JEWELLERY,,DC,,,X40,Market leader in jewelry and watches with consistent growth and strong brand equity.
+TMPV,1065,XY24,NTT,D,1,1,54,X,AUTO,1,DC,-49,,XY24/X5K/X40N,Improving fundamentals driven by EV focus but cyclical nature of auto industry remains.
 TORNTPHARM,,,ATH,,0,0,36,H,PHARMA,,NC,,,,Pharma leader with focus on branded generics and strong financials.
 TRIDENT,48,XR,NTT,W,0,0,224,M,TEXTILES,1,DC,-16,,XR,Integrated textile player with improving fundamentals but cyclical industry exposure.
 TTKPRESTIG,770,OX40N,NTT,W,0,0,245,M,DURABLES,1,DC,1,,OX40N,Kitchen appliance leader with strong brand presence and consistent growth.
@@ -293,3 +293,4 @@ WSTCSTPAPR,,XR,ATH,W,0,0,290,M,PAPER,,DC,,,XR,Regional paper manufacturer with c
 YESBANK,,,,,0,0,255,L,BANKS,,NC,,,,Private bank with improving metrics but a history of governance and asset quality issues.
 ZEEL,,,,,0,0,215,M,ENTERTAINMENT,,DC,,,,Leading media player with challenges from streaming platforms and governance concerns.
 ZENTEC,,AR,ATH,D,1,1,124,H,MISC,,NC,,,AR,
+ZYDUSLIFE,,AR,ATH,D,1,1,,H,PHARMA,1,SC,,,AR,

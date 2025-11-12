@@ -1,8 +1,8 @@
 {
     	"py_booked_amt_dm": 1872000,
 	"py_booked_amt_sv": 826000,
-    	"cy_booked_amt_dm": 794000,
-	"cy_booked_amt_sv": 555013,
-    	"reserve_amt_dm": 211000,
-	"reserve_amt_sv": 348000
+    	"cy_booked_amt_dm": 796000,
+	"cy_booked_amt_sv": 556000,
+    	"reserve_amt_dm": 2500,
+	"reserve_amt_sv": 148000
 }
