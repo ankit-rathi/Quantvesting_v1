@@ -133,7 +133,7 @@ IGL,707,AR,ATH,W,0,0,231,M,GAS,,SC,,,AR,Dominant player in city gas distribution
 INDHOTEL,,X40N,ATH,,0,0,59,X,HOTELS,,DC,,,X40N,Strong player in the hospitality sector with a focus on premium and luxury segments offering consistent growth potential in India's growing tourism industry.
 INDIAMART,,AR,ATH,D,0,0,139,H,MISC,1,NC,,,AR,
 INDIANB,,,,,1,1,185,L,BANKS,,NC,,,X5K,PSU bank with improving asset quality but still faces operational challenges.
-INDIGO,,AR,ATH,D,0,0,105,M,AIRLINES,,DC,,,AR/X5K,Market leader in aviation with cost-efficient operations but cyclical industry dynamics.
+INDIGO,3123,AR,ATH,D,0,0,105,M,AIRLINES,,DC,,,AR/X5K,Market leader in aviation with cost-efficient operations but cyclical industry dynamics.
 INDIGOPNTS,1408,OX40N,NTT,W,0,0,234,M,PAINTS,1,SC,-1,,OX40N,Rapidly growing paints company leveraging strong demand in tier-2 and tier-3 markets.
 INDUSINDBK,1800,XR,NTT,W,0,0,259,L,BANKS,1,NC,-21,,XR/X5K,Private bank with improving asset quality and growing retail focus.
 INDUSTOWER,,,,,1,1,177,L,TELECOM,,SC,,,X5K,Telecom tower company with challenges from industry consolidation.
