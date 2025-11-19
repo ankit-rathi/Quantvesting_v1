@@ -225,7 +225,7 @@ REPCOHOME,880,XY24,NTT,W,0,0,160,H,FINANCE,1,NC,-44,,XY24,Regional housing finan
 ROSSARI,965,XY24,NTT,W,0,0,223,M,CHEMICALS,,SC,32,,XY24,Specialty chemicals player with innovative products but faces scalability challenges.
 ROUTE,2390,SR,ATH,W,0,0,140,H,IT,1,NC,-38,SD: till 2390,SR,Cloud communication provider with strong growth prospects but intense competition.
 SAIL,228,XY24,BTT,W,0,0,201,M,STEEL,,DC,-18,,XY24,PSU steel producer with cyclical earnings and governance challenges.
-SAMMAANCAP,326,XY25,NTT,W,0,0,245,M,FINANCE,1,NC,,SD: 320,XY25/XR,Small NBFC with limited scale and high concentration risks.
+SAMMAANCAP,326,XY25,NTT,W,0,0,245,M,FINANCE,,NC,,SD: 320,XY25/XR,Small NBFC with limited scale and high concentration risks.
 SANOFI,7552,X40,NTT,D,0,0,84,X,PHARMA,,NC,,,X40,Global pharma major with strong brand portfolio and ethical management.
 SATIN,274,XY24,NTT,D,0,0,146,H,FINANCE,1,NC,-58,,XY24,Microfinance player with execution and asset quality concerns.
 SBICARD,1075,XY24,NTT,W,0,0,133,H,FINANCE,,NC,-1,,XY24,Leading credit card issuer with strong parent backing and consistent growth.
@@ -264,7 +264,7 @@ TECHM,,,,,0,0,102,M,IT,,NC,,,,Diversified IT services player but lags peers in h
 TIPSINDLTD,,,,,0,0,,M,ENTERTAINMENT,,DC,,,,Niche player in music content with rising digital monetization opportunities.
 TITAGARH,1548,XY24,NTT,D,0,0,174,H,ENGINEERING,1,DC,-40,,XY24,Rail and infrastructure player benefiting from government capex but cyclical demand.
 TITAN,4713,X40,ATH,D,1,1,11,X,JEWELLERY,,DC,,,X40,Market leader in jewelry and watches with consistent growth and strong brand equity.
-TMPV,1065,XY24,NTT,D,1,1,3,X,AUTO,1,DC,-49,,XY24/X5K/X40N,Improving fundamentals driven by EV focus but cyclical nature of auto industry remains.
+TMPV,600,XY24,NTT,D,1,1,3,X,AUTO,1,DC,-49,,XY24/X5K/X40N,Improving fundamentals driven by EV focus but cyclical nature of auto industry remains.
 TORNTPHARM,,,ATH,,0,0,44,H,PHARMA,,NC,,,,Pharma leader with focus on branded generics and strong financials.
 TRIDENT,48,XR,NTT,W,0,0,225,M,TEXTILES,1,DC,-16,,XR,Integrated textile player with improving fundamentals but cyclical industry exposure.
 TTKPRESTIG,770,OX40N,NTT,W,0,0,253,M,DURABLES,1,DC,1,,OX40N,Kitchen appliance leader with strong brand presence and consistent growth.
