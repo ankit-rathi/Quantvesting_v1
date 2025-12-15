@@ -57,7 +57,7 @@ BRITANNIA,5201,XY25,ATH,D,0,0,45,H,FMCG,,NC,239,,XY25/AR,Market leader in biscui
 BSE,,X40N,ATH,D,0,0,16,X,MISC,,NC,,,X40N,
 BSOFT,,XR,ATH,D,0,0,151,H,IT,1,NC,-28,,XR,IT services company with strong growth potential in digital transformation projects.
 CAMPUS,393,XY24,NTT,W,0,0,222,M,FOOTWEAR,1,SC,-16,,XY24,Growing player in affordable footwear but lacks a strong competitive moat.
-CAMS,4762,X40N,NTT,W,0,0,86,X,MISC,1,NC,261,,X40N,Monopoly-like position in mutual fund RTA services well-run with strong cash flow generation.
+CAMS,950,X40N,NTT,W,0,0,86,X,MISC,1,NC,261,,X40N,Monopoly-like position in mutual fund RTA services well-run with strong cash flow generation.
 CANBK,,,,,1,1,184,L,BANKS,,NC,,,X5K,PSU bank showing some improvement but still faces governance and credit quality issues.
 CAPLIPOINT,,OX40N,ATH,W,1,1,153,H,PHARMA,,NC,,,OX40N,Niche pharma player with a focus on generics and injectables consistent operational performance.
 CASTROLIND,172,XR,ATH,W,0,0,215,M,CHEMICALS,,SC,2824,,XR,Strong brand in lubricants but faces headwinds from EV adoption and slowing demand.
@@ -138,7 +138,7 @@ INDIGOPNTS,1408,OX40N,NTT,W,0,0,234,M,PAINTS,1,SC,-1,,OX40N,Rapidly growing pain
 INDUSINDBK,1800,XR,NTT,W,0,0,259,L,BANKS,1,NC,-21,,XR/X5K,Private bank with improving asset quality and growing retail focus.
 INDUSTOWER,,,,,1,1,177,L,TELECOM,,SC,,,X5K,Telecom tower company with challenges from industry consolidation.
 INFIBEAM,19.45,AR,ATH,W,0,0,282,L,IT,,NC,,,AR,E-commerce and digital payments company with execution risks and limited moat.
-INFY,2275,X40,BTT,D,1,1,2,X,IT,1,NC,33,,X40/X5K,IT services leader with strong global presence robust management and consistent growth.
+INFY,1972,X40,NTT,D,1,1,2,X,IT,1,NC,33,,X40/X5K,IT services leader with strong global presence robust management and consistent growth.
 IOC,,,,,1,0,186,L,OIL,,DC,,,X5K,PSU with pricing power constraints and volatile earnings due to crude price fluctuations.
 IRB,,X5K,ATH,D,0,0,208,M,INFRA,,DC,,,X5K,
 IRCTC,1269,XY24,BTT,W,0,0,118,H,TRAVEL,1,DC,12,,XY24,Monopoly in online rail ticketing but limited diversification in revenue streams.
@@ -201,7 +201,6 @@ OIL,,X5K,ATH,D,0,0,194,M,OIL,,DC,,,X5K,
 ONGC,,XR,ATH,W,0,0,183,L,OIL,,DC,,,XR/X5K,PSU with exposure to volatile crude prices and limited growth prospects.
 PAGEIND,50000,X40,ATH,D,0,0,55,X,APPARELS,1,DC,16,SD: RHS 45146,X40,Premium innerwear brand with strong market leadership and excellent financials.
 PARAGMILK,273,AR,ATH,W,0,0,285,L,FMCG,,NC,,,AR,Dairy company with limited differentiation and rising competition in the sector.
-PEL,,,ATH,D,0,0,247,M,FINANCE,,NC,,,,Diversified financial and pharma player with execution risks in NBFC business.
 PFC,,X5K,ATH,D,0,0,101,M,FINANCE,,NC,,,X5K,
 PFIZER,5855,X40,ATH,D,0,0,93,X,PHARMA,,NC,,,X40,Global pharma leader with strong R&D and robust financials in India.
 PGHH,18500,X40,ATH,D,0,0,57,X,FMCG,1,NC,,,XY25/X40,Premium FMCG player with consistent margins and strong brand equity.
