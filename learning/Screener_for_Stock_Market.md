@@ -1,4 +1,4 @@
-The main objective of this session is to provide a practical, time-efficient method to filter thousands of listed stocks down to a manageable list of high-quality companies for trading.
+The main objective of this session is to provide a practical, time-efficient method to filter thousands of listed stocks down to a manageable list of high-quality companies for trading. 
 
 The key takeaways from the sources are as follows:
 
