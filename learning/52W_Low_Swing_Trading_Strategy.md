@@ -1,4 +1,4 @@
-> 99.99% Winning Rate Swing Strategy 
+> 99.99% Winning Rate Swing Strategy  
 
 The "52-Week Low Wealth Strategy" presented in this session is designed to be a simple, repeatable system for trading high-quality stocks. 
 
