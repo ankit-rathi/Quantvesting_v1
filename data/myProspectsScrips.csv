@@ -22,7 +22,7 @@ APOLLOHOSP,8285,X40N,ATH,D,0,0,71,X,HEALTHCARE,,NC,,,X40N,Premier hospital chain
 ARE&M,1066,X200,ATH,W,0,0,264,L,AUTO,,DC,85,,X200,Industrial engineering firm with moderate management and growth prospects.
 ARVINDFASN,,XR,ATH,D,0,0,273,L,MISC,,NC,,,XR,Retail-focused business with a growing portfolio but faces margin and competition pressures.
 ASIANPAINT,4250,X40,ATH,D,1,0,31,X,PAINTS,1,SC,-18,,X40,Market leader in decorative paints with exceptional brand recognition and execution.
-ASIANTILES,137,XR,NTT,W,0,0,271,L,CERAMICS,1,SC,-16,,XR,Tile manufacturer with consistent performance but limited scalability compared to peers.
+ASIANTILES,137,XR,NTT,W,0,0,271,L,CERAMICS,,SC,-16,,XR,Tile manufacturer with consistent performance but limited scalability compared to peers.
 ASTERDM,,X5K,ATH,D,0,0,203,M,HEALTHCARE,,NC,,,X5K,
 ASTRAL,,AR,ATH,D,0,0,128,H,PLASTICS,,SC,,,AR,Well-managed high-quality business with strong future growth prospects making it an excellent investment choice in the small-cap space.
 ASTRAZEN,8410,X40N,ATH,W,0,0,94,X,PHARMA,,NC,,,X40N,Global pharma leader with a focus on innovation and a robust R&D pipeline.
@@ -148,7 +148,7 @@ ITBEES,40,AR,ATH,W,0,0,283,H,IT,,NC,,,AR,Diversified ETF tracking the IT index r
 ITC,452,X40,NTT,D,0,0,5,X,FMCG,1,NC,,,X40/X5K,Diversified conglomerate with strong FMCG growth and improving capital allocation.
 ITCHOTELS,,X40N,ATH,D,0,0,65,X,HOTELS,,DC,,,X40N,
 J&KBANK,114,XR,ATH,W,0,0,266,L,BANKS,,NC,680,,XR,Regional PSU bank with high geographical concentration and governance issues.
-JCHAC,2282,OX40N,NTT,W,0,0,233,M,AC,1,SC,-57,,OX40N,Niche player in air conditioning with a strong brand but limited market share.
+JCHAC,2282,OX40N,BTT,W,0,0,233,M,AC,1,SC,-57,,OX40N,Niche player in air conditioning with a strong brand but limited market share.
 JINDALSTEL,,,,,0,0,117,M,STEEL,,DC,,,,Leading steel producer but exposed to cyclical demand and debt concerns.
 JIOFIN,387,XY24,BTT,W,0,0,36,X,FINANCE,1,NC,26,,XY24/X40N,New financial services arm of Reliance with strong parent backing and scalability potential.
 JMFINANCIL,,XR,ATH,W,0,0,242,M,FINANCE,,NC,90,,XR,Diversified financial services player with limited competitive advantages.
