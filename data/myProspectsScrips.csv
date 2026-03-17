@@ -67,7 +67,7 @@ CERA,9475,OX40N,NTT,W,1,1,153,H,CERAMICS,1,SC,-57,,OX40N,Leading player in sanit
 CHOLAFIN,,AR,ATH,W,0,0,44,H,FINANCE,,NC,,,AR,Well-managed NBFC with a strong presence in vehicle and SME financing.
 CIPLA,1795,X40N,ATH,D,0,0,18,X,PHARMA,,NC,,,X40N,Trusted pharma company with strong domestic and international presence well-diversified.
 CLEAN,2137,XR,NTT,W,0,0,146,H,CHEMICALS,,SC,0,,XR,Renewable energy player with solid potential but limited execution history.
-COALINDIA,,XY25,ATH,D,1,0,185,L,MINING,1,DC,,,XY25/X5K,Dominant coal producer but faces ESG concerns and regulatory headwinds.
+COALINDIA,,XY25,ATH,D,1,0,185,L,MINING,,DC,,,XY25/X5K,Dominant coal producer but faces ESG concerns and regulatory headwinds.
 COFFEEDAY,80,XR,NTT,W,0,0,266,L,HOTELS,1,DC,,VB: this coffee will cost 300 soon SD: CWH 118,XR,Struggles with governance and financial issues despite a strong brand legacy.
 COLPAL,2100,XY25,ATH,D,0,0,62,X,FMCG,1,NC,-21,,XY25/X40,Market leader in oral care with exceptional brand loyalty and efficient capital allocation.
 CROMPTON,382,AR,ATH,W,0,0,219,M,ELECTRICAL,,SC,58,,AR,Well-established player in consumer electricals with consistent performance.
@@ -113,7 +113,7 @@ HATHWAY,31.4,XR,NTT,W,0,0,171,H,ENTERTAINMENT,1,DC,-18,,XR,Cable and broadband p
 HAVELLS,,X40,ATH,D,1,1,63,X,ELECTRICAL,1,SC,,,X40,Industry leader in electrical consumer goods with consistent growth and strong brand equity.
 HCLTECH,2006,X40,ATH,D,1,1,8,X,IT,1,NC,99,,X40/X5K,Leading IT services company with robust global presence and diversified offerings.
 HDFCAMC,3600,X40,ATH,D,1,1,11,X,FINANCE,,NC,136,,X40,Market leader in asset management with strong distribution network and consistent profitability.
-HDFCBANK,1000,X40,ATH,D,1,1,26,X,BANKS,,NC,4,,X40/X5K,Best-in-class private bank with robust growth excellent governance and strong asset quality.
+HDFCBANK,1073,X40,BTT,D,1,1,26,X,BANKS,1,NC,4,,X40/X5K,Best-in-class private bank with robust growth excellent governance and strong asset quality.
 HDFCLIFE,897,X40,BTT,D,1,0,31,X,INSURANCE,,NC,16,,X40,Leading life insurer with innovative product offerings and strong distribution capabilities.
 HEROMOTOCO,,AR,ATH,D,0,0,45,H,AUTO,,DC,,,AR,Market leader in two-wheelers but faces growth headwinds in the EV transition.
 HINDALCO,,X5K,ATH,,0,0,48,H,METALS,,DC,,,X5K,Leading aluminum and copper producer with strong operational performance and global footprint.
