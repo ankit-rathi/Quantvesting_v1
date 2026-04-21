@@ -65,7 +65,7 @@ CDSL,1985,X40N,ATH,W,0,0,96,X,MISC,,NC,271,,X40N,Dominant player in depository s
 CENTRALBK,,XR,ATH,W,0,0,255,L,BANKS,,NC,,,XR,Struggling PSU bank with weak governance and a high proportion of stressed assets.
 CERA,9475,OX40N,NTT,W,1,1,153,H,CERAMICS,1,SC,-57,,OX40N,Leading player in sanitaryware with consistent growth strong brand and efficient management.
 CHOLAFIN,,AR,ATH,W,0,0,44,H,FINANCE,,NC,,,AR,Well-managed NBFC with a strong presence in vehicle and SME financing.
-CIPLA,1795,X40N,ATH,D,0,0,18,X,PHARMA,,NC,,,X40N,Trusted pharma company with strong domestic and international presence well-diversified.
+CIPLA,1795,X40N,ATH,D,0,0,18,X,PHARMA,1,NC,,,X40N,Trusted pharma company with strong domestic and international presence well-diversified.
 CLEAN,2137,XR,NTT,W,0,0,146,H,CHEMICALS,,SC,0,,XR,Renewable energy player with solid potential but limited execution history.
 COALINDIA,,XY25,ATH,D,1,0,185,L,MINING,,DC,,,XY25/X5K,Dominant coal producer but faces ESG concerns and regulatory headwinds.
 COFFEEDAY,80,XR,NTT,W,0,0,266,L,HOTELS,1,DC,,VB: this coffee will cost 300 soon SD: CWH 118,XR,Struggles with governance and financial issues despite a strong brand legacy.
@@ -102,7 +102,7 @@ GICRE,583,XY24,BTT,W,0,0,122,H,INSURANCE,,NC,109,,XY24/X5K,State-owned reinsurer
 GILLETTE,8980,X40,ATH,D,0,0,83,X,FMCG,1,NC,64,,X40,Premium brand with strong customer loyalty but limited growth in price-sensitive markets.
 GLAND,3442,XR,NTT,W,0,0,163,H,PHARMA,,NC,17,SD: 2612,XR,Focused on injectables with strong global presence but faces execution challenges.
 GLAXO,3182,X40,ATH,D,1,0,56,X,PHARMA,1,NC,,,X40,Strong brand and diversified pharma portfolio but slower growth compared to peers.
-GODREJCP,,X40N,ATH,,1,1,32,X,FMCG,,NC,,,X40N,Trusted FMCG player with strong presence in home and personal care but faces tough competition.
+GODREJCP,,X40N,ATH,,1,1,32,X,FMCG,1,NC,,,X40N,Trusted FMCG player with strong presence in home and personal care but faces tough competition.
 GODREJIND,,,,,0,0,233,M,CHEMICALS,,SC,,,,Conglomerate with diversified businesses but lacks strong competitive advantages.
 GRASIM,,AR,ATH,,0,0,53,H,TEXTILES,,DC,,,AR/X5K,Well-managed conglomerate with leadership in cement and entry into paints.
 GREENPANEL,537,XY24,NTT,D,0,0,225,M,MISC,1,NC,-17,,XY24,Leader in MDF with strong operational efficiency but cyclical demand risks.
@@ -114,7 +114,7 @@ HAVELLS,,X40,ATH,D,1,1,63,X,ELECTRICAL,1,SC,,,X40,Industry leader in electrical 
 HCLTECH,2006,X40,ATH,D,1,1,8,X,IT,1,NC,99,,X40/X5K,Leading IT services company with robust global presence and diversified offerings.
 HDFCAMC,3600,X40,ATH,D,1,1,11,X,FINANCE,,NC,136,,X40,Market leader in asset management with strong distribution network and consistent profitability.
 HDFCBANK,1073,X40,BTT,D,1,1,26,X,BANKS,1,NC,4,,X40/X5K,Best-in-class private bank with robust growth excellent governance and strong asset quality.
-HDFCLIFE,897,X40,BTT,D,1,0,31,X,INSURANCE,,NC,16,,X40,Leading life insurer with innovative product offerings and strong distribution capabilities.
+HDFCLIFE,897,X40,ATH,D,1,0,31,X,INSURANCE,1,NC,16,,X40,Leading life insurer with innovative product offerings and strong distribution capabilities.
 HEROMOTOCO,,AR,ATH,D,0,0,45,H,AUTO,,DC,,,AR,Market leader in two-wheelers but faces growth headwinds in the EV transition.
 HINDALCO,,X5K,ATH,,0,0,48,H,METALS,,DC,,,X5K,Leading aluminum and copper producer with strong operational performance and global footprint.
 HINDPETRO,410,XR,ATH,D,1,0,256,L,REFINERIES,,SC,1817,,XR/X5K,PSU with limited pricing power due to government regulations and volatile margins.
@@ -122,7 +122,7 @@ HINDUNILVR,2922,XY25,NTT,D,1,1,9,X,FMCG,1,NC,-3,,XY25/X5K/X40,FMCG leader with s
 HINDZINC,,X5K,ATH,D,,,102,M,METALS,,DC,,,X5K,
 HONAUT,51640,X40N,ATH,D,0,0,90,X,ELECTRICAL,1,SC,97,,X40N,Trusted automation and safety solution provider with niche market leadership.
 HSCL,,XR,ATH,W,0,0,265,L,CHEMICALS,,SC,,,XR,Construction-focused PSU with cyclical business and limited scalability.
-HYUNDAI,,X40N,ATH,D,,,29,X,AUTO,,DC,,,X40N/X5K,
+HYUNDAI,,X40N,ATH,D,,,29,X,AUTO,1,DC,,,X40N/X5K,
 IBREALEST,,,,,0,0,279,L,REALTY,,DC,,,,Real estate player with cyclical business and governance concerns in the past.
 ICICIBANK,,X40,ATH,D,1,1,10,X,BANKS,,NC,,,X40/X5K,Best-in-class private bank with consistent growth strong digital focus and asset quality.
 ICICIGI,1893,X40,ATH,D,1,1,66,X,INSURANCE,1,NC,52,,X40,Leading general insurer with strong distribution but faces pricing pressures in the industry.
@@ -137,7 +137,6 @@ INDIGO,3123,AR,ATH,D,0,0,99,M,AIRLINES,,DC,,,AR/X5K,Market leader in aviation wi
 INDIGOPNTS,1408,OX40N,NTT,W,0,0,222,M,PAINTS,1,SC,-1,,OX40N,Rapidly growing paints company leveraging strong demand in tier-2 and tier-3 markets.
 INDUSINDBK,1800,XR,NTT,W,0,0,258,L,BANKS,1,NC,-21,,XR/X5K,Private bank with improving asset quality and growing retail focus.
 INDUSTOWER,,,,,1,1,181,L,TELECOM,,SC,,,X5K,Telecom tower company with challenges from industry consolidation.
-INFIBEAM,19.45,AR,ATH,W,0,0,280,L,IT,,NC,,,AR,E-commerce and digital payments company with execution risks and limited moat.
 INFY,1972,X40,NTT,D,1,1,3,X,IT,1,NC,33,,X40/X5K,IT services leader with strong global presence robust management and consistent growth.
 IOC,,,,,1,0,183,L,OIL,,DC,,,X5K,PSU with pricing power constraints and volatile earnings due to crude price fluctuations.
 IRB,,X5K,ATH,D,0,0,237,M,INFRA,,DC,,,X5K,
@@ -173,7 +172,7 @@ M&M,,X40N,ATH,,1,1,25,X,AUTO,,DC,,,X5K/X40N,Diversified automotive and tractor l
 MAHABANK,,X5K,ATH,D,1,1,192,M,BANKS,,NC,,,X5K,
 MANAPPURAM,,XR,ATH,D,0,0,253,M,FINANCE,,NC,,,XR,Gold loan-focused NBFC with good growth but regulatory and market risks.
 MARICO,725,X40,ATH,D,1,1,69,X,FMCG,,NC,42,,X40,FMCG leader with strong brands consistent growth and excellent management.
-MARUTI,,XR,ATH,D,1,1,33,X,AUTO,,DC,,,XR/X40/X5K,Dominant passenger car manufacturer with strong market share and cost-efficient operations.
+MARUTI,,XR,ATH,D,1,1,33,X,AUTO,1,DC,,,XR/X40/X5K,Dominant passenger car manufacturer with strong market share and cost-efficient operations.
 MASFIN,350,XR,ATH,D,0,0,167,H,FINANCE,1,NC,-74,,XR,Well-managed NBFC with a focus on MSME lending but scalability concerns.
 MAXHEALTH,,AR,,W,0,0,124,H,HEALTHCARE,,NC,,,AR,Leading hospital chain with strong brand but faces competitive intensity in organized healthcare.
 MCX,,X40N,ATH,W,1,1,67,X,MISC,,NC,,,X40N,Monopoly in commodity exchanges but regulatory and technological risks exist.
