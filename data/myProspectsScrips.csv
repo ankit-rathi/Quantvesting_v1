@@ -3,7 +3,7 @@ Symbol,Target,Criteria,Strategy,TFrame,LatestQtr,StarStock,CumlRnk,Conviction,Ca
 5PAISA,593,OX40N,NTT,W,1,0,170,H,FINANCE,1,NC,20,SD: V20 598,OX40N,Competitive discount brokerage with a growing market but limited profitability visibility.
 AARTIIND,919,XR,NTT,W,1,0,232,M,CHEMICALS,,SC,-8,,XR,Leading specialty chemical manufacturer with robust exports and consistent execution.
 AAVAS,2328,XY24,NTT,W,1,1,213,M,FINANCE,,NC,6,,XY24,Well-managed housing finance company with disciplined credit underwriting.
-ABB,7934,AR,NTT,D,0,0,125,H,ELECTRICAL,1,SC,,,AR,
+ABB,7934,AR,NTT,D,0,0,125,H,ELECTRICAL,,SC,,,AR,
 ABBOTINDIA,27500,X40,ATH,D,1,1,58,X,PHARMA,1,NC,,,X40,High-quality pharmaceutical company with strong ethical practices and brand presence.
 ABSLAMC,615,XR,ATH,W,0,0,234,M,FINANCE,,NC,47,,XR,Reputable asset manager benefiting from a growing mutual fund industry.
 ACC,3906,XY24,BTT,D,0,0,85,X,CEMENT,1,DC,-37,,XY24/X40N,Strong player in the cement sector with operational excellence under Adani Group.
@@ -158,7 +158,7 @@ JUBLFOOD,850,AR,NTT,W,0,0,188,M,RESTAURANTS,,DC,22,,AR,Dominant QSR player with 
 JYOTHYLAB,,XR,ATH,D,0,0,214,M,FMCG,,NC,,,XR,Niche FMCG player with a strong regional presence but limited scale compared to peers.
 KAJARIACER,,X40N,ATH,D,0,0,95,X,CERAMICS,,SC,,,X40N,Market leader in the Indian tiles industry with strong brand equity a diverse product range and significant growth potential driven by urbanization and infrastructure development.
 KANSAINER,340,XY24,NTT,D,1,0,162,H,PAINTS,1,SC,-30,,XY24/OX40N,Leader in decorative paints with strong growth potential and market leadership.
-KOTAKBANK,2270,X40,BTT,D,1,1,12,X,BANKS,,NC,4,,X40/X5K,Premier private bank with ethical management strong growth and robust asset quality.
+KOTAKBANK,2270,X40,ATH,D,1,1,12,X,BANKS,1,NC,4,,X40/X5K,Premier private bank with ethical management strong growth and robust asset quality.
 KPIGREEN,,MH,ATH,D,1,1,144,H,POWER,1,SC,,,MH,
 LALPATHLAB,3545,X40N,NTT,W,1,1,84,X,HEALTHCARE,,NC,12,,X40N,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
 LAOPALA,464,AR,NTT,D,0,0,154,H,CERAMICS,1,SC,-50,,AR,Niche glassware manufacturer with steady growth and limited competition.
@@ -168,7 +168,7 @@ LT,,XY25,ATH,W,1,1,27,X,ENGINEERING,,DC,,,XY25/X40/X200/X5K,Engineering and infr
 LTIM,7000,X200,ATH,W,0,0,42,H,IT,,NC,7,,X200,Leading IT services firm with strong growth and focus on digital transformation.
 LUPIN,,,,,0,0,189,M,PHARMA,,NC,,,,Strong pharma player but faces margin pressure and regulatory challenges.
 LUXIND,2442,OX40N,NTT,W,0,0,206,M,TEXTILES,,DC,6,VB: cup with handle 2966,OX40N,Leading innerwear brand with strong distribution and brand recall but competitive industry.
-M&M,,X40N,ATH,,1,1,25,X,AUTO,,DC,,,X5K/X40N,Diversified automotive and tractor leader with consistent innovation and strong execution.
+M&M,,X40N,ATH,,1,1,25,X,AUTO,1,DC,,,X5K/X40N,Diversified automotive and tractor leader with consistent innovation and strong execution.
 MAHABANK,,X5K,ATH,D,1,1,192,M,BANKS,,NC,,,X5K,
 MANAPPURAM,,XR,ATH,D,0,0,253,M,FINANCE,,NC,,,XR,Gold loan-focused NBFC with good growth but regulatory and market risks.
 MARICO,725,X40,ATH,D,1,1,69,X,FMCG,,NC,42,,X40,FMCG leader with strong brands consistent growth and excellent management.
@@ -202,7 +202,7 @@ PARAGMILK,273,AR,ATH,W,0,0,283,L,FMCG,,NC,,,AR,Dairy company with limited differ
 PFC,,X5K,ATH,D,0,0,100,M,FINANCE,,NC,,,X5K,
 PFIZER,5855,X40,ATH,D,0,0,88,X,PHARMA,,NC,,,X40,Global pharma leader with strong R&D and robust financials in India.
 PGHH,18500,X40,ATH,D,0,0,57,X,FMCG,1,NC,,,XY25/X40,Premium FMCG player with consistent margins and strong brand equity.
-PIDILITIND,3202,X40,ATH,D,1,1,5,X,CHEMICALS,,SC,10,,X40,Adhesives leader with a strong moat innovative products and consistent performance.
+PIDILITIND,3202,X40,ATH,D,1,1,5,X,CHEMICALS,1,SC,10,,X40,Adhesives leader with a strong moat innovative products and consistent performance.
 PIIND,,,ATH,,0,0,129,H,CHEMICALS,,SC,,,,Leading agri-chemical player with strong R&D focus and robust export business.
 PNB,90,XR,ATH,W,1,1,180,L,BANKS,,NC,238,,XY25/XR/X5K,PSU bank with weak asset quality and governance challenges.
 POLYCAB,,OX40N,ATH,W,1,1,43,H,CABLES,,SC,,,OX40N,Market leader in cables and wires with diversification into consumer appliances.
