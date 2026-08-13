@@ -176,7 +176,7 @@ MARUTI,,XR,ATH,D,1,1,33,X,AUTO,1,DC,,,XR/X40/X5K,Dominant passenger car manufact
 MASFIN,350,XR,ATH,D,0,0,167,H,FINANCE,1,NC,-74,,XR,Well-managed NBFC with a focus on MSME lending but scalability concerns.
 MAXHEALTH,,AR,,W,0,0,124,H,HEALTHCARE,,NC,,,AR,Leading hospital chain with strong brand but faces competitive intensity in organized healthcare.
 MCX,,X40N,ATH,W,1,1,67,X,MISC,,NC,,,X40N,Monopoly in commodity exchanges but regulatory and technological risks exist.
-MEDANTA,1486,XY24,NTT,D,0,0,87,X,HEALTHCARE,1,NC,8,,X40N/XY24,Leading multispecialty hospital with strong expansion potential but capital-intensive model.
+MEDANTA,1486,XY24,NTT,D,0,0,87,X,HEALTHCARE,,NC,8,,X40N/XY24,Leading multispecialty hospital with strong expansion potential but capital-intensive model.
 METROBRAND,,AR,ATH,D,0,0,157,H,FOOTWEAR,,SC,,,AR,Strong retail player in India's footwear market with a solid brand presence diversified product portfolio and strong growth potential driven by increasing consumer demand.
 METROPOLIS,3102,XR,NTT,W,0,0,164,H,HEALTHCARE,,NC,19,,XR,Trusted diagnostics brand with steady growth but rising competition from organized players.
 MGL,,AR,ATH,D,0,0,143,H,GAS,,SC,,,AR,Benefits from strong management a solid business model in the gas distribution sector and promising growth prospects making it an excellent choice for long-term investment.
@@ -272,7 +272,7 @@ ULTRACEMCO,,X40N,ATH,,1,0,24,X,CEMENT,,DC,,,X40N/X5K,Leading cement player with 
 UNIONBANK,163,XY24,NTT,W,1,1,114,M,BANKS,,NC,-39,,XY24/X5K,PSU bank with weak asset quality but improving metrics.
 UNITDSPR,1644,X40N,NTT,W,0,0,64,X,BREWERIES,1,DC,,,X40N,Market leader in premium alcoholic beverages with strong brand portfolio.
 UPL,737,AR,NTT,W,0,0,200,M,CHEMICALS,,SC,,,AR,Global agrochemical player with robust portfolio but faces debt-related concerns.
-UTIAMC,1207,XY24,ATH,W,0,0,229,M,FINANCE,,NC,96,,XY24,Established mutual fund player but lags private peers in growth.
+UTIAMC,1207,XY24,ATH,W,0,0,229,M,FINANCE,1,NC,96,,XY24,Established mutual fund player but lags private peers in growth.
 V2RETAIL,,AR,ATH,D,0,0,287,H,TEXTILES,,DC,,,AR,Stands out for its strong management robust business model in retail and promising future growth potential making it a solid choice in the micro-cap segment.
 VAIBHAVGBL,521,XR,NTT,W,0,0,160,H,JEWELLERY,1,DC,-24,VB: range bound target 520,XR,Niche jewelry and lifestyle retailer with strong export focus.
 VALIANTORG,838,XR,NTT,W,0,0,145,H,CHEMICALS,1,SC,-27,,XR,Specialty chemical player with strong margins but smaller scale.
