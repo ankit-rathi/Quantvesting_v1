@@ -209,7 +209,7 @@ POLYCAB,,OX40N,ATH,W,1,1,43,H,CABLES,,SC,,,OX40N,Market leader in cables and wir
 POWERGRID,,,,,0,0,103,M,POWER,,SC,,,X5K,Dominant player in power transmission with steady growth but PSU inefficiencies.
 PRAJIND,,AR,ATH,W,0,0,227,M,ENGINEERING,,DC,,,AR,Strong focus on biofuels and clean energy solutions with innovative product offerings.
 PVRINOX,,,,,0,0,217,M,ENTERTAINMENT,,DC,,,,Leading multiplex operator with strong brand but cyclical business tied to discretionary spending.
-QUESS,424,XY24,NTT,D,0,0,80,X,MISC,1,NC,-33,,XY24,Staffing and outsourcing firm with execution challenges in a fragmented market.
+QUESS,424,XY24,NTT,D,0,0,80,X,MISC,,NC,-33,,XY24,Staffing and outsourcing firm with execution challenges in a fragmented market.
 RADICO,,X40N,ATH,W,1,1,74,X,MISC,,NC,,,X40N,Alcoholic beverage player with strong premiumization strategy and consistent growth.
 RAJESHEXPO,518,OX40N,NTT,W,0,0,268,L,JEWELLERY,1,DC,-49,,OX40N,Gold trading company with low margins and limited value addition.
 RAJOOENG,,AR,ATH,W,0,0,136,H,MISC,1,NC,,,AR,
@@ -236,7 +236,7 @@ SHALBY,327,XY24,NTT,W,0,0,236,M,HEALTHCARE,1,NC,-31,,XY24,Hospital chain with re
 SHARDACROP,,XR,ATH,D,0,0,239,M,CHEMICALS,,SC,,,XR,Agrochemical player with a strong product portfolio but intense competition.
 SHREECEM,,,ATH,,0,0,128,H,CEMENT,,DC,,,,Premium cement player with excellent cost efficiency and strong brand.
 SHRIRAMFIN,,X5K,ATH,D,0,0,115,M,FINANCE,,NC,,,X5K,
-SIEMENS,,AR,ATH,D,0,0,51,H,ELECTRICAL,1,SC,,,AR,Leader in industrial automation and infrastructure with consistent growth and innovation.
+SIEMENS,4125,AR,NTT,D,0,0,51,H,ELECTRICAL,1,SC,,,AR,Leader in industrial automation and infrastructure with consistent growth and innovation.
 SIS,528,OX40N,NTT,W,1,0,168,H,MISC,1,NC,-28,,OX40N,Leading security services company with strong growth but low margins.
 SONACOMS,1006,AR,ATH,W,0,0,193,M,AUTO,,DC,-8,,AR,Auto component leader with innovative products but cyclical industry exposure.
 SONATSOFTW,,MGC,ATH,W,0,0,138,H,IT,,NC,,,MGC,IT services player with strong focus on niche verticals and excellent financial performance.
