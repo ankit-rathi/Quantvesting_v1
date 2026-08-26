@@ -236,7 +236,7 @@ SHALBY,327,XY24,NTT,W,0,0,236,M,HEALTHCARE,1,NC,-31,,XY24,Hospital chain with re
 SHARDACROP,,XR,ATH,D,0,0,239,M,CHEMICALS,,SC,,,XR,Agrochemical player with a strong product portfolio but intense competition.
 SHREECEM,,,ATH,,0,0,128,H,CEMENT,,DC,,,,Premium cement player with excellent cost efficiency and strong brand.
 SHRIRAMFIN,,X5K,ATH,D,0,0,115,M,FINANCE,,NC,,,X5K,
-SIEMENS,4125,AR,NTT,D,0,0,51,H,ELECTRICAL,1,SC,,,AR,Leader in industrial automation and infrastructure with consistent growth and innovation.
+SIEMENS,4125,AR,NTT,D,0,0,51,H,ELECTRICAL,,SC,,,AR,Leader in industrial automation and infrastructure with consistent growth and innovation.
 SIS,528,OX40N,NTT,W,1,0,168,H,MISC,1,NC,-28,,OX40N,Leading security services company with strong growth but low margins.
 SONACOMS,1006,AR,ATH,W,0,0,193,M,AUTO,,DC,-8,,AR,Auto component leader with innovative products but cyclical industry exposure.
 SONATSOFTW,,MGC,ATH,W,0,0,138,H,IT,,NC,,,MGC,IT services player with strong focus on niche verticals and excellent financial performance.
