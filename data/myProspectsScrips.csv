@@ -123,7 +123,6 @@ HINDZINC,,X5K,ATH,D,1,,102,M,METALS,,DC,,,X5K,
 HONAUT,51640,X40N,ATH,D,1,1,90,X,ELECTRICAL,1,SC,97,,X40N,Trusted automation and safety solution provider with niche market leadership.
 HSCL,,XR,ATH,W,1,0,265,L,CHEMICALS,,SC,,,XR,Construction-focused PSU with cyclical business and limited scalability.
 HYUNDAI,,X40N,ATH,D,1,1,29,X,AUTO,1,DC,,,X40N/X5K,
-IBREALEST,,,,,1,0,279,L,REALTY,,DC,,,,Real estate player with cyclical business and governance concerns in the past.
 ICICIBANK,,X40,ATH,D,1,1,10,X,BANKS,,NC,,,X40/X5K,Best-in-class private bank with consistent growth strong digital focus and asset quality.
 ICICIGI,1893,X40,ATH,D,1,1,66,X,INSURANCE,1,NC,52,,X40,Leading general insurer with strong distribution but faces pricing pressures in the industry.
 ICICIPRULI,835,X40,ATH,D,1,1,78,X,INSURANCE,1,NC,103,,X40,Life insurer with innovative products and consistent market share growth.
@@ -158,7 +157,7 @@ JUBLFOOD,850,AR,NTT,W,1,0,188,M,RESTAURANTS,,DC,22,,AR,Dominant QSR player with 
 JYOTHYLAB,,XR,ATH,D,1,0,214,M,FMCG,,NC,,,XR,Niche FMCG player with a strong regional presence but limited scale compared to peers.
 KAJARIACER,,X40N,ATH,D,1,1,95,X,CERAMICS,,SC,,,X40N,Market leader in the Indian tiles industry with strong brand equity a diverse product range and significant growth potential driven by urbanization and infrastructure development.
 KANSAINER,340,XY24,NTT,D,1,0,162,H,PAINTS,1,SC,-30,,XY24/OX40N,Leader in decorative paints with strong growth potential and market leadership.
-KOTAKBANK,2270,X40,ATH,D,1,1,12,X,BANKS,1,NC,4,,X40/X5K,Premier private bank with ethical management strong growth and robust asset quality.
+KOTAKBANK,,X40,ATH,D,1,1,12,X,BANKS,,NC,4,,X40/X5K,Premier private bank with ethical management strong growth and robust asset quality.
 KPIGREEN,,MH,ATH,D,1,1,144,H,POWER,1,SC,,,MH,
 LALPATHLAB,3545,X40N,NTT,W,1,1,84,X,HEALTHCARE,,NC,12,,X40N,Diagnostic leader with strong brand recall and expansion potential in organized healthcare.
 LAOPALA,464,AR,NTT,D,1,0,154,H,CERAMICS,1,SC,-50,,AR,Niche glassware manufacturer with steady growth and limited competition.
@@ -188,7 +187,7 @@ NATCOPHARM,,AR,ATH,D,1,1,150,H,PHARMA,,NC,,,AR,
 NATIONALUM,,X5K,ATH,,1,0,126,H,METALS,,DC,,,X5K,PSU aluminum producer with cyclical earnings and low pricing power.
 NAUKRI,,,ATH,,1,0,123,H,IT,,NC,,,,Market leader in online recruitment with strong cash flows and new growth verticals.
 NEOGEN,2434,AR,ATH,W,1,0,282,M,CHEMICALS,,SC,36,SR:2434,AR,Specialty chemicals company with niche focus but relatively small scale.
-NESTLEIND,1377,XY25,NTT,D,1,1,20,X,FMCG,,NC,,,XY25/X40,FMCG giant with strong brand portfolio consistent growth and ethical management.
+NESTLEIND,,XY25,ATH,D,1,1,20,X,FMCG,1,NC,,,XY25/X40,FMCG giant with strong brand portfolio consistent growth and ethical management.
 NETWORK18,,,,,1,0,261,L,MEDIA,,SC,,,,Media company with fluctuating revenues and limited pricing power in the industry.
 NHPC,115,XY24,NTT,D,1,0,194,M,POWER,,SC,-54,,XY24,PSU hydropower company with stable earnings but limited growth potential.
 NIACL,278,XR,ATH,W,1,0,221,M,INSURANCE,,NC,442,,XR,General insurance PSU with operational inefficiencies and intense competition.
